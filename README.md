@@ -17,14 +17,10 @@
 ### Introdução
 
 1. [Boas Vindas](/1-Introducao/1-Boas-vindas.md)
-2. [Comunicação](/1-Introducao/2-Comunicacao.md)
+2. [Comunicacao](/1-Introducao/2-Comunicacao.md)
 
 ### Configuração de Ambiente
-
-1. [Editores de textos e plugins](/2-Ambiente/1-Editores-e-plugins.md)
-2. [Ambiente Windows](/2-Ambiente/2-Ambiente-windows.md)
-3. [Ambiente Linux](/2-Ambiente/3-Ambiente-linux.md)
-4. [Dicas Gerais](/2-Ambiente/4-Dicas-gerais.md)
+1.[Ambiente e Aplicação](/2-Ambiente/1-Plugins.md)
 
 
 
