@@ -20,7 +20,7 @@
 2. [Comunicacao](/1-Introducao/2-Comunicacao.md)
 
 ### Configuração de Ambiente
-1.[Ambiente e Aplicação](/2-Ambiente/1-Plugins.md)
+1. [Ambiente e Aplicação](/2-Ambiente/1-Plugins.md)
 
 
 
