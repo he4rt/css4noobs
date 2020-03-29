@@ -23,7 +23,7 @@ Ainda na ala dos plugins mais populares, temos o IntelliSense for CSS. Ele pode 
 
 ### Ainda sobre o SCSS
 
-<img src="./img/sass-logo1.png" alt="scss" width="120">
+<img src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" alt="sass" width="120">
 
 Hoje em dia o foco dos desenvolvedores está na produtividade e agilidade, e o SASS chega pra proporcionar isso. Ele é um pré-processador e framework de CSS que gera arquivos CSS para o usuário cada vez que é compilado. Isso agiliza e modula o trabalho em arquivos com poucas linhas. Sendo assim, o tempo de desenvolvimento de páginas pode ser otimizado através desse framework. Vou evitar citar mais coisa pois são coisas mais complexas, porém se você ficou interessado, leia o <a href="https://sass-lang.com/guide">guia</a> do próprio site do SASS.
 
