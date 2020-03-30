@@ -39,5 +39,6 @@ são **extremamente apreciadas**
 ## Autores
 
 - **Matheus Henrique (math95)** - _Developer & Member of He4rt Developers_ - [Twitter](https://twitter.com/math__95)
+- **Gabriel Angelo (Angells1)** - _Frontend Developer & Member of He4rt Developers_ [Twitter](https://twitter.com/edea_dinsid)
 
 <p align="center">Made with 💜</p>
