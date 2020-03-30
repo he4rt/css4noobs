@@ -1,10 +1,11 @@
 # css4noobs
+Em construção =)
 
 <h1 align="center">
   <img src="./img/logo-css.png" alt="php" width="120">
 </h1>
 
-<p align="center">CSS básico para iniciantes. (Em construção)</p>
+<p align="center">CSS básico para iniciantes.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
