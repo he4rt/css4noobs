@@ -1,11 +1,10 @@
 # css4noobs
-Em construção =)
 
 <h1 align="center">
   <img src="./img/logo-css.png" alt="php" width="120">
 </h1>
 
-<p align="center">CSS básico para iniciantes.</p>
+<p align="center">CSS básico para iniciantes. (Em construção)</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -19,6 +18,7 @@ Em construção =)
 
 1. [Boas Vindas](/1-Introducao/1-Boas-vindas.md)
 2. [Comunicacao](/1-Introducao/2-Comunicacao.md)
+3. [O que você precisa saber](/1-Introducao/3-Oque-voce-precisa-saber.md)
 
 ### Configuração de Ambiente
 1. [Ambiente e Aplicação](/2-Ambiente/1-Plugins.md)
