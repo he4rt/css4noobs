@@ -16,15 +16,15 @@
 
 ### Introdução
 
-1. [Boas Vindas](/1-Introducao/1-Boas-vindas.md)
-2. [Comunicacao](/1-Introducao/2-Comunicacao.md)
-3. [O que você precisa saber](/1-Introducao/3-Oque-voce-precisa-saber.md)
+1. [Boas Vindas](/Introducao/boas_vindas.md)
+2. [Comunicacao](/Introducao/comunicacao.md)
+3. [O que você precisa saber](/Introducao/o_que_voce_precisa_saber.md)
 
 ### Configuração de Ambiente
-1. [Ambiente e Aplicação](/2-Ambiente/1-Plugins.md)
+1. [Ambiente e Aplicação](/Ambiente/plugins.md)
 
-### Módulo Básico
-1. [Flexbox](/3-Modulo-Basico/Flexbox)
+### Módulo Intermediário
+1. [Flexbox](/Modulo-Intermediario/flexbox.md)
 
 ## Como Contribuir
 
@@ -40,5 +40,6 @@ são **extremamente apreciadas**
 ## Autores
 
 - **Matheus Henrique (math95)** - _Developer & Member of He4rt Developers_ - [Twitter](https://twitter.com/math__95)
+- **Guilherme Vieira (@gitlherme)** - _Developer at Just Digital, member of He4rt Developers and organizer at @perifacode_ - [Twitter](https://twitter.com/gitlherme)
 
 <p align="center">Made with 💜</p>
