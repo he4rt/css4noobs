@@ -49,4 +49,6 @@ são **extremamente apreciadas**
 
 - **Gabriel Angelo (Angells1)** - _Frontend Developer & Member of He4rt Developers_ [Twitter](https://twitter.com/edea_dinsid)
 
+- **Igor Wessel (igorwessel)** - _Developer & Member of He4rt Developers_ [Twitter](https://twitter.com/igor_wessel)
+
 <p align="center">Made with 💜</p>
