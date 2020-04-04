@@ -80,7 +80,7 @@ No CSS:
 
     .absolute {  
         position: absolute;
-        /* left: 30px; */
+        left: 30px;
         width: 100px;
         height: 100px;
         background: red;
@@ -157,3 +157,42 @@ Temos o resultado
   <img src="../img/modulo-1-position-relative-1-2.png">
 </p>
 
+## Position fixed
+
+Utilizamos ele para deixar o elemento fixo no nosso documento ou seja independente do que aconteça nunca vai mudar de posição, vamos demonstrar com um exemplo:
+
+No HTML
+```html
+    <h1>Está fixado</h1>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+```
+
+No CSS
+```css
+    div {
+        width: 300px;
+        margin: 35px;
+        height: 100px;
+        background: blue;
+    }
+
+    h1 {
+        position: fixed;
+        top: 0;
+        width: 500px;
+        margin: 0 auto;
+        background: white;
+        padding: 10px;
+    }
+```
+
+Resultado
+
+<p align="center">
+  <img src="../img/modulo-1-position-fixed-1.gif">
+</p>
