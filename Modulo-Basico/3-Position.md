@@ -202,6 +202,8 @@ Resultado
 
 É uma mistura entre ```position relative``` e ```position fixed```, o elemento que possui a propriedade ```position sticky``` é tratado como relativo até alcançar um limite especificado definido pelo ```top```,```left```, ```right```, ```bottom```, a partir do momento que alcança esse ponto ele passa a ser fixo. E se chegar a sua posição original volta a ser tratado como ```relative```.
 
+Vamos ver um exemplo pratico:
+
 No HTML
 ```html
 <h1>Posicionamento sticky</h1>
@@ -241,8 +243,8 @@ No HTML
 No CSS
 ```css
     dl {
-        height: 200px;
-        overflow: auto;
+        height: 200px; /* definimos uma altura para mostrar o scroll */
+        overflow: auto; /* colocamos o overflow para mostrar o scroll */
     }
 
     dt {
@@ -250,8 +252,7 @@ No CSS
         color: white;
         padding: 10px;
         position: sticky;
-        top: 0;
-        left: 0;
+        top: 0; /* Quando o elemento chega na posição top 0 em relação ao elemento pai passa a ser fixo */
         margin: 1em 0;
     }
 ```
@@ -262,3 +263,6 @@ Resultado
   <img src="../img/modulo-1-position-sticky-1.gif">
 </p>
 
+## Concluindo
+
+Conhecer bem essa propriedade é essencial para definir o posicionamento de icones, botões, imagens, etc..., espero que pratiquem bastante! pois, muito do que vimos aqui é só uma pontinha do que podemos fazer com elas.
