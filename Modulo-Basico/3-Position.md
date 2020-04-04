@@ -4,13 +4,13 @@ Vamos desvendar e aprender todas as propriedades do position que é muito import
 
 ## Position static
 
-Dificilmente ou nunca você vera alguem utilizando o ```position: static``` pois ele é o valor default de todos os nossos elementos. 
+Dificilmente ou nunca você vera alguem utilizando o ```position: static``` pois ele é o valor default de todos os nossos elementos.
 
 É bom conhecer ```static``` pois agora você sabe que qualquer elemento tem como padrão ```position: static```.
 
 ## Position absolute
 
-Quando setamos essa propriedade em nosso documento, retiramos o nosso elemento do fluxo normal de nosso documento, nenhum espaço é criado no layout da pagina e conseguimos manipular o elemento com ```top```,```left```, ```right```, ```bottom```, vamos mostrar um exemplo do que ocorre:
+Quando usamos essa propriedade em nosso documento, retiramos o nosso elemento do fluxo normal de nosso documento, nenhum espaço é criado no layout da pagina e o mesmo é posicionado relativo ao seu elemento pai posicionado mais próximo, se houver. Caso contrário, será relativo ao bloco inicial.
 
 No HTML:
 ```html
@@ -80,7 +80,7 @@ No CSS:
 
     .absolute {  
         position: absolute;
-        left: 30px;
+        /* left: 30px; */
         width: 100px;
         height: 100px;
         background: red;
@@ -92,3 +92,68 @@ Temos o resultado:
 <p align="center">
   <img src="../img/modulo-position-absolute-1-3.png">
 </p>
+
+
+## Position relative
+
+Quando usamos ```position relative``` ele vai deslocar o nosso elemento usando como base o posicionamento que ele tem no fluxo normal do nosso documento, vamos ver isso com um exemplo:
+
+No CSS
+```css
+    .normal{
+        width: 100px;
+        height: 100px;
+        background: green;
+    }
+
+    .absolute {
+        position: relative;
+        left: 15px;
+        width: 100px;
+        height: 100px;
+        background: red;
+    }
+```
+
+No HTML
+```html
+    <div class="normal"></div>
+    <div class="absolute"></div>
+    <div class="normal"></div>
+```
+
+Esse é o fluxo normal que iria acontencer caso a gente faça as três divs acima:
+
+<p align="center">
+  <img src="../img/modulo-position-absolute-1.png">
+</p>
+
+Quando usamos a propriedade ```position relative``` e manipulamos o ```top```,```left```, ```right```, ```bottom``` iremos usar como base a posição que ele tem no fluxo do nosso documento, segue o exemplo:
+
+<p align="center">
+  <img src="../img/modulo-position-absolute-1.png">
+  <img src="../img/modulo-1-position-relative-1.png">
+</p>
+<p align="center">
+    A imagem da direita demonstra a posição que ira utilizar como base.
+</p>
+
+Agora vamos manipular a posição do elemento
+
+Adicione ao seu CSS
+```css
+    .absolute {
+        position: relative;
+        left: 50px;
+        width: 100px;
+        height: 100px;
+        background: red;
+    }
+```
+
+Temos o resultado
+
+<p align="center">
+  <img src="../img/modulo-1-position-relative-1-2.png">
+</p>
+
