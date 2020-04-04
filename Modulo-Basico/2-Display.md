@@ -4,11 +4,11 @@
 
 ## Tudo são Boxes
 
-Antes de partimos, você precisa ter outra visão sobre os elementos Html. Toda vez que colocar um elemento qualquer em sua página (seja ele um titulo, um parágrafo, ou qualquer outro) tenha em mente que está colocando uma "caixa", mesmo que não veja a delimitação dessa caixa, o seu elemento se comportará como uma. Guarde isso, pois precisará para entender os principais tipos de posicionamento especialmente o que vamos aprender agora. 
+Antes de partimos, você precisa ter outra visão sobre os elementos Html. Toda vez que colocar um elemento qualquer em sua página (seja ele um titulo, um parágrafo, ou qualquer outro) tenha em mente que está colocando uma "caixa", mesmo que não veja a delimitação dessa caixa, o seu elemento se comportará como uma, se precisar de alguma forma visualizar essa delimitação, faça uso de bordas ou backgrounds para entender melhor. Guarde isso, pois precisará para entender os principais tipos de posicionamento especialmente o que vamos aprender agora. 
 
 ## Display Block
 
-Começando pelo mais simples, o display block possue duas características básicas: ele sempre ocupa todo espaço disponivel na horizontal e sempre começará a partir de uma nova linha.
+Começando pelo mais simples, o display block possui duas características básicas: ele sempre ocupa todo espaço disponível na horizontal e sempre começará a partir de uma **nova** linha.
 
 <br>
 
@@ -52,8 +52,10 @@ Note o efeito resultante, o simples fato do primeiro button ter o display block 
 
 ### Algumas considerações
 
-Mesmo que elementos block ocupem todo o espaço horizontalmente você pode setar o tamanho desejado, ao contrário de outros elementos que veremos nesse mesmo módulo.
-É importante você ter em mente quais elementos possuem display block por padrão. Listarei alguns abaixo:
+Mesmo que elementos block ocupem todo o espaço horizontalmente, você pode setar o tamanho desejado, ao contrário de outros elementos que veremos nesse mesmo módulo.
+
+
+É importante você ter em mente quais elementos possuem display block por padrão, portanto listarei alguns abaixo:
 
 - div
 - Todos elementos de título (h1 ao h6)
@@ -67,7 +69,7 @@ Mesmo que elementos block ocupem todo o espaço horizontalmente você pode setar
 
 ## Display Inline
 
-O display inline também possui um funcionamento bastante simples, podemos dizer que se o display block ocupa todo espaço disponível, o display inline é totalmente o contrário, ocupando somente o tamanho real do elemento. Vamos aos exemplos.
+O display inline também possui um funcionamento bastante simples, podemos dizer que se o display block ocupa todo espaço disponível, o display inline é totalmente o contrário, ocupando somente o tamanho correspondente ao seu conteúdo. Vamos aos exemplos.
 
 Html
 ```html
@@ -77,7 +79,7 @@ Html
 
 ```
 
-Novamente criei dois elementos. Nesse caso terei que aplicar a propriedade em ambos, uma vez que são elementos block e sempre partem da próxima linha.
+Novamente criei dois elementos. Nesse caso terei que aplicar a propriedade em ambos, uma vez que são elementos block, então sempre partem da próxima linha.
 
 <em>(Irei colocar um background para melhor visualização dos efeitos do inline, mas você pode ignora-lo por enquanto)</em>
 
@@ -118,13 +120,13 @@ Novamente criei dois elementos. Nesse caso terei que aplicar a propriedade em am
 Note que o tamanho do elemento é determinado **apenas** pelo seu conteúdo.
 
 ### Observações
-Algo muito importante sobre o display inline é que ele não obedece nenhum tipo de definição de largura ou altura, obedecendo somente o tamanho de seu conteúdo interno.
+Algo muito importante sobre o display inline é que ele não obedece nenhum tipo de definição de largura ou altura, sendo assim, seu tamanho é definido somente pelo seu conteúdo interno.
 
 <br>
 
 ## Display Inline-Block
 
-Como o nome já sugere, o inline-block é uma "junção" dos dois anteriores, com algumas particularidades. A primeira vista pode parecer complexo, mas é exatamento o que o nome sugere. Com Inline-block você tem um comportamento inline, ou seja, por padrão o elemento irá ocupar o espaço demandado pelo seu conteúdo, mas com uma característica herdada do display block, você pode setar o tamanho (largura e largura) que desejar sem restrições.
+Como o nome já sugere, o inline-block é uma "junção" dos dois anteriores, com algumas particularidades. À primeira vista pode parecer um pouco complexo, mas é exatamente o que o nome sugere. Com Inline-block você tem um comportamento inline, ou seja, por padrão o elemento irá ocupar o espaço demandado pelo seu conteúdo, mas com uma característica herdada do display block, você pode setar o tamanho (largura e altura) que desejar sem restrições.
 
 <br>
 
@@ -140,7 +142,7 @@ Html
 ```
 <br>
 
-Aqui estou setando a largura (width) de 250 pixels e a altura (height) de 50 pixels, o display e um background cinza.
+Aqui estou setando a largura (width) de 250 pixels, a altura (height) de 50 pixels, o display e um background cinza.
 ```css
 
 .inline-block {
@@ -158,7 +160,7 @@ Aqui estou setando a largura (width) de 250 pixels e a altura (height) de 50 pix
 
 ![Btn](../img/inline-block1.png)
 
-Observe que mesmo o segundo elemento possuindo um conteúdo menor que o primeiro, os dois possuem mesma largura e altura.
+Observe que mesmo o segundo elemento possuindo um conteúdo menor que o primeiro, os dois possuem mesma largura e altura, pois setamos isso anteriormente. Mas se não tivessemos setado, ambos teriam seus tamanhos próprios.
 
 ## Concluindo
-Saber bem todas essas propriedades é requisito quase obrigatório se você quiser controlar bem seus Layouts e são pré-requisitos para aprender algumas propriedades mais avançadas, por isso pratique todos e tenha-os em mente. Obrigado por ler até aqui e até a próxima :zap:
+Saber bem todas essas propriedades é requisito quase obrigatório se você quiser controlar bem seus Layouts e são pré-requisitos para aprender algumas outras propriedades mais avançadas, por isso pratique todos e tenha-os em mente. Obrigado por ler até aqui e até a próxima :zap:
