@@ -96,7 +96,7 @@ Temos o resultado:
 
 ## Position relative
 
-Quando usamos ```position relative``` ele vai deslocar o nosso elemento usando como base o posicionamento que ele tem no fluxo normal do nosso documento, vamos ver isso com um exemplo:
+Quando usamos ```position relative``` ele vai deslocar o nosso elemento usando como base o posicionamento que ele tem no fluxo normal do nosso documento, segue um exemplo:
 
 No CSS
 ```css
@@ -196,3 +196,69 @@ Resultado
 <p align="center">
   <img src="../img/modulo-1-position-fixed-1.gif">
 </p>
+
+
+## Position sticky
+
+É uma mistura entre ```position relative``` e ```position fixed```, o elemento que possui a propriedade ```position sticky``` é tratado como relativo até alcançar um limite especificado definido pelo ```top```,```left```, ```right```, ```bottom```, a partir do momento que alcança esse ponto ele passa a ser fixo. E se chegar a sua posição original volta a ser tratado como ```relative```.
+
+No HTML
+```html
+<h1>Posicionamento sticky</h1>
+<dl>
+    <dt>A</dt>
+    <dd>Apple</dd>
+    <dd>Ant</dd>
+    <dd>Altimeter</dd>
+    <dd>Airplane</dd>
+
+    <dt>B</dt>
+    <dd>Bird</dd>
+    <dd>Buzzard</dd>
+    <dd>Bee</dd>
+    <dd>Banana</dd>
+    <dd>Beanstalk</dd>
+
+    <dt>C</dt>
+    <dd>Calculator</dd>
+    <dd>Cane</dd>
+    <dd>Camera</dd>
+    <dd>Camel</dd>
+
+    <dt>D</dt>
+    <dd>Duck</dd>
+    <dd>Dime</dd>
+    <dd>Dipstick</dd>
+    <dd>Drone</dd>
+
+    <dt>E</dt>
+    <dd>Egg</dd>
+    <dd>Elephant</dd>
+    <dd>Egret</dd>
+</dl>
+```
+
+No CSS
+```css
+    dl {
+        height: 200px;
+        overflow: auto;
+    }
+
+    dt {
+        background-color: black;
+        color: white;
+        padding: 10px;
+        position: sticky;
+        top: 0;
+        left: 0;
+        margin: 1em 0;
+    }
+```
+
+Resultado
+
+<p align="center">
+  <img src="../img/modulo-1-position-sticky-1.gif">
+</p>
+
