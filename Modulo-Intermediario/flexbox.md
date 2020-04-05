@@ -9,7 +9,9 @@ O flexbox é uma forma de organização de layout do nosso projeto. Essa organiz
 
 ## O que iremos desenvolver nesse módulo
 
+Vamos desenvolver a seguinte navbar usando apenas o flexbox e alguns outros comandos que já aprendemos aqui no 4noobs.
 
+![](../img/Modulo-Intermediario/Flexbox/navbar-example.png)
 
 ## Como o flexbox funciona
 
@@ -17,28 +19,20 @@ Como citado acima, o flexbox pode funcionar tanto em linha quanto em coluna. Pra
 
 Vamos usar como exemplo o seguinte elemento HTML.
 
-```<div class="flexbox">
-  <div class="item-1">
-    <h1>Este é o item 1.</h1>
-    <p>Este é um parágrafo do item 1.</p>
-  </div>
-  <div class="item-2">
-    <h1>Este é o item 2.</h1>
-    <p>Este é um parágrafo do item 2.</p>
-  </div>
-  <div class="item-3">
-    <h1>Este é o item 3.</h1>
-    <p>Este é um parágrafo do item 3.</p>
-  </div>
-</div>
 ```
-
-No momento, esse é o resultado que temos.
-
-![](../img/Modulo-Intermediario/Flexbox/example-html.png)
-
-
-
+<nav class="navbar">
+  <div class="logo">
+    <img src="logo.png">
+  </div>
+  <ul class="elements-list">
+    <li>Home</li>
+    <li>Projetos</li>
+    <li>Sobre</li>
+    <li>Equipe</li>
+    <li>Contato</li>
+  </ul>
+</nav>
+```
 
 ## Referências
 
