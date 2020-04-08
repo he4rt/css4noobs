@@ -1,8 +1,6 @@
 # css4noobs
 
-<h1 align="center">
-  <img src="./img/logo-css.png" alt="php" width="120">
-</h1>
+<h1 align="center"><img src="./img/logo-css.png" alt="php" width="120"></h1>
 
 <p align="center">CSS básico para iniciantes. (Em construção)</p>
 
@@ -17,7 +15,7 @@
 ### Introdução
 
 1. [Boas Vindas](/Introducao/boas_vindas.md)
-2. [Comunicacao](/Introducao/comunicacao.md)
+2. [Comunicação](/Introducao/comunicacao.md)
 3. [O que você precisa saber](/Introducao/o-que-voce-precisa-saber.md)
 4. [O que é CSS](/Introducao/o-que-e-css.md)
 5. [Como o CSS funciona](/Introducao/como-o-css-funciona.md)
@@ -25,20 +23,23 @@
 7. [Adicionando CSS no nosso HTML](/Introducao/adicionando-css-no-html.md)
 
 ### Configuração de Ambiente
+
 1. [Ambiente e Aplicação](/Ambiente/plugins.md)
 
 ### Módulo Básico
-1. [Box Model](/Modulo-Basico/box-model.md)
-2. [Background](/Modulo-Basico/background.md)
-3. [Border](/Modulo-Basico/border.md)
-4. [Table](/Modulo-Basico/table.md)
-5. [Lists](/Modulo-Basico/lists.md)
-6. [Manipulação de Texto (color, font, links, text)](/Modulo-Basico/manipulacao-texto.md)
-7. [Display](/Modulo-Basico/display.md)
-8. [Position](/Modulo-Basico/position.md)
-9. [Z-index](/Modulo-Basico/z-index.md)
-10. [Units](/Modulo-Basico/units.md)
-11. [Transition](/Modulo-Basico/transition.md)
+
+1. [Seletores](/Modulo-Basico/seletores.md)
+2. [Box Model](/Modulo-Basico/box-model.md)
+3. [Background](/Modulo-Basico/background.md)
+4. [Border](/Modulo-Basico/border.md)
+5. [Table](/Modulo-Basico/table.md)
+6. [Lists](/Modulo-Basico/lists.md)
+7. [Manipulação de Texto (color, font, links, text)](/Modulo-Basico/manipulacao-texto.md)
+8. [Display](/Modulo-Basico/display.md)
+9. [Position](/Modulo-Basico/position.md)
+10. [Z-index](/Modulo-Basico/z-index.md)
+11. [Units](/Modulo-Basico/units.md)
+12. [Transition](/Modulo-Basico/transition.md)
 
 ### Módulo Intermediário
 1. [Pseudo-classes](/Modulo-Intermediario/pseudo-classes.md)
@@ -67,6 +68,11 @@ são **extremamente apreciadas**
 ## Autores
 
 - **Matheus Henrique (math95)** - _Developer & Member of He4rt Developers_ - [Twitter](https://twitter.com/math__95)
+
 - **Guilherme Vieira (@gitlherme)** - _Developer at Just Digital, member of He4rt Developers and organizer at @perifacode_ - [Twitter](https://twitter.com/gitlherme)
+
+- **Gabriel Angelo (Angells1)** - _Frontend Developer & Member of He4rt Developers_ [Twitter](https://twitter.com/edea_dinsid)
+
+- **Igor Wessel (igorwessel)** - _Developer & Member of He4rt Developers_ [Twitter](https://twitter.com/igor_wessel)
 
 <p align="center">Made with 💜</p>
