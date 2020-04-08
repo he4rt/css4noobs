@@ -1,8 +1,6 @@
 # css4noobs
 
-<h1 align="center">
-  <img src="./img/logo-css.png" alt="php" width="120">
-</h1>
+<h1 align="center"><img src="./img/logo-css.png" alt="php" width="120"></h1>
 
 <p align="center">CSS básico para iniciantes. (Em construção)</p>
 
@@ -15,20 +13,46 @@
 ## ROADMAP
 
 ### Introdução
- 
+
 1. [Boas Vindas](/Introducao/boas_vindas.md)
-2. [Comunicacao](/Introducao/comunicacao.md)
-3. [O que você precisa saber](/Introducao/o_que_voce_precisa_saber.md)
+2. [Comunicação](/Introducao/comunicacao.md)
+3. [O que você precisa saber](/Introducao/o-que-voce-precisa-saber.md)
+4. [O que é CSS](/Introducao/o-que-e-css.md)
+5. [Como o CSS funciona](/Introducao/como-o-css-funciona.md)
+6. [Quais as suas vantagens](/Introducao/quais-suas-vantagens.md)
+7. [Adicionando CSS no nosso HTML](/Introducao/adicionando-css-no-html.md)
 
 ### Configuração de Ambiente
+
 1. [Ambiente e Aplicação](/Ambiente/plugins.md)
 
-## Módulo Básico
-1. [Seletores](/Modulo-Basico/1-Seletores.md)
-2. [Display](/Modulo-Basico/2-Display.md)
+### Módulo Básico
+
+1. [Seletores](/Modulo-Basico/seletores.md)
+2. [Box Model](/Modulo-Basico/box-model.md)
+3. [Background](/Modulo-Basico/background.md)
+4. [Border](/Modulo-Basico/border.md)
+5. [Table](/Modulo-Basico/table.md)
+6. [Lists](/Modulo-Basico/lists.md)
+7. [Manipulação de Texto (color, font, links, text)](/Modulo-Basico/manipulacao-texto.md)
+8. [Display](/Modulo-Basico/display.md)
+9. [Position](/Modulo-Basico/position.md)
+10. [Z-index](/Modulo-Basico/z-index.md)
+11. [Units](/Modulo-Basico/units.md)
+12. [Transition](/Modulo-Basico/transition.md)
 
 ### Módulo Intermediário
-1. [Flexbox](/Modulo-Intermediario/flexbox.md)
+1. [Pseudo-classes](/Modulo-Intermediario/pseudo-classes.md)
+2. [Pseudo-seletores](/Modulo-Intermediario/pseudo-seletores.md)
+3. [Flexbox](/Modulo-Intermediario/flexbox.md)
+4. [CSS Grid](/Modulo-Intermediario/css-grid.md)
+5. [Animation](/Modulo-Intermediario/animation.md)
+
+
+#### Referências
+![https://cdn.rawgit.com/hostinger/banners/94941d64/tutorials/pdf/CSS-3-Cheatsheet.pdf](https://cdn.rawgit.com/hostinger/banners/94941d64/tutorials/pdf/CSS-3-Cheatsheet.pdf)
+![https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/](https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/)
+
 
 ## Como Contribuir
 
