@@ -18,13 +18,40 @@
 
 1. [Boas Vindas](/Introducao/boas_vindas.md)
 2. [Comunicacao](/Introducao/comunicacao.md)
-3. [O que você precisa saber](/Introducao/o_que_voce_precisa_saber.md)
+3. [O que você precisa saber](/Introducao/o-que-voce-precisa-saber.md)
+4. [O que é CSS](/Introducao/o-que-e-css.md)
+5. [Como o CSS funciona](/Introducao/como-o-css-funciona.md)
+6. [Quais as suas vantagens](/Introducao/quais-suas-vantagens.md)
+7. [Adicionando CSS no nosso HTML](/Introducao/adicionando-css-no-html.md)
 
 ### Configuração de Ambiente
 1. [Ambiente e Aplicação](/Ambiente/plugins.md)
 
+### Módulo Básico
+1. [Box Model](/Modulo-Basico/box-model.md)
+2. [Background](/Modulo-Basico/background.md)
+3. [Border](/Modulo-Basico/border.md)
+4. [Table](/Modulo-Basico/table.md)
+5. [Lists](/Modulo-Basico/lists.md)
+6. [Manipulação de Texto (color, font, links, text)](/Modulo-Basico/manipulacao-texto.md)
+7. [Display](/Modulo-Basico/display.md)
+8. [Position](/Modulo-Basico/position.md)
+9. [Z-index](/Modulo-Basico/z-index.md)
+10. [Units](/Modulo-Basico/units.md)
+11. [Transition](/Modulo-Basico/transition.md)
+
 ### Módulo Intermediário
-1. [Flexbox](/Modulo-Intermediario/flexbox.md)
+1. [Pseudo-classes](/Modulo-Intermediario/pseudo-classes.md)
+2. [Pseudo-seletores](/Modulo-Intermediario/pseudo-seletores.md)
+3. [Flexbox](/Modulo-Intermediario/flexbox.md)
+4. [CSS Grid](/Modulo-Intermediario/css-grid.md)
+5. [Animation](/Modulo-Intermediario/animation.md)
+
+
+#### Referências
+![https://cdn.rawgit.com/hostinger/banners/94941d64/tutorials/pdf/CSS-3-Cheatsheet.pdf](https://cdn.rawgit.com/hostinger/banners/94941d64/tutorials/pdf/CSS-3-Cheatsheet.pdf)
+![https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/](https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/)
+
 
 ## Como Contribuir
 
