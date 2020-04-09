@@ -50,8 +50,8 @@
 
 
 #### Referências
-![https://cdn.rawgit.com/hostinger/banners/94941d64/tutorials/pdf/CSS-3-Cheatsheet.pdf](https://cdn.rawgit.com/hostinger/banners/94941d64/tutorials/pdf/CSS-3-Cheatsheet.pdf)
-![https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/](https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/)
+[https://cdn.rawgit.com/hostinger/banners/94941d64/tutorials/pdf/CSS-3-Cheatsheet.pdf](https://cdn.rawgit.com/hostinger/banners/94941d64/tutorials/pdf/CSS-3-Cheatsheet.pdf)
+[https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/](https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/)
 
 
 ## Como Contribuir
