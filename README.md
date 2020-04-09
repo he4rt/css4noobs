@@ -14,7 +14,7 @@
 
 ### Introdução
 
-1. [Boas Vindas](/Introducao/boas_vindas.md)
+1. [Boas Vindas](/Introducao/boas-vindas.md)
 2. [Comunicação](/Introducao/comunicacao.md)
 3. [O que você precisa saber](/Introducao/o-que-voce-precisa-saber.md)
 4. [O que é CSS](/Introducao/o-que-e-css.md)
@@ -42,17 +42,17 @@
 12. [Transition](/Modulo-Basico/transition.md)
 
 ### Módulo Intermediário
+
 1. [Pseudo-classes](/Modulo-Intermediario/pseudo-classes.md)
 2. [Pseudo-seletores](/Modulo-Intermediario/pseudo-seletores.md)
 3. [Flexbox](/Modulo-Intermediario/flexbox.md)
 4. [CSS Grid](/Modulo-Intermediario/css-grid.md)
 5. [Animation](/Modulo-Intermediario/animation.md)
 
-
 #### Referências
+
 [https://cdn.rawgit.com/hostinger/banners/94941d64/tutorials/pdf/CSS-3-Cheatsheet.pdf](https://cdn.rawgit.com/hostinger/banners/94941d64/tutorials/pdf/CSS-3-Cheatsheet.pdf)
 [https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/](https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/)
-
 
 ## Como Contribuir
 
