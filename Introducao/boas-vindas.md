@@ -1,4 +1,4 @@
-## 1.1 Boas vindas
+## Boas vindas
 
 Sejam bem vindos ao tutorial de CSS da He4rt Developers.
 
