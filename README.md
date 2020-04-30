@@ -12,42 +12,42 @@
 
 ## ROADMAP
 
-### Introdução
+### Introdução (em construção)
 
-1. [Boas Vindas](/Introducao/boas-vindas.md)
-2. [Comunicação](/Introducao/comunicacao.md)
-3. [O que você precisa saber](/Introducao/o-que-voce-precisa-saber.md)
-4. [O que é CSS](/Introducao/o-que-e-css.md)
-5. [Como o CSS funciona](/Introducao/como-o-css-funciona.md)
-6. [Quais as suas vantagens](/Introducao/quais-suas-vantagens.md)
-7. [Adicionando CSS no nosso HTML](/Introducao/adicionando-css-no-html.md)
+1. [Boas Vindas](/Introducao/boas-vindas.md) (finalizado)
+2. [Comunicação](/Introducao/comunicacao.md) (finalizado)
+3. [O que você precisa saber](/Introducao/o-que-voce-precisa-saber.md) (finalizado)
+4. [O que é CSS](/Introducao/o-que-e-css.md) (finalizado)
+5. [Como o CSS funciona](/Introducao/como-o-css-funciona.md) (em construção)
+6. [Quais as suas vantagens](/Introducao/quais-suas-vantagens.md) (em construção)
+7. [Adicionando CSS no nosso HTML](/Introducao/adicionando-css-no-html.md) (finalizado)
 
-### Configuração de Ambiente
+### Configuração de Ambiente (finalizado)
 
-1. [Ambiente e Aplicação](/Ambiente/plugins.md)
+1. [Ambiente e Aplicação](/Ambiente/plugins.md) (finalizado)
 
-### Módulo Básico
+### Módulo Básico (em construção)
 
-1. [Seletores](/Modulo-Basico/seletores.md)
-2. [Box Model](/Modulo-Basico/box-model.md)
-3. [Background](/Modulo-Basico/background.md)
-4. [Border](/Modulo-Basico/border.md)
-5. [Table](/Modulo-Basico/table.md)
-6. [Lists](/Modulo-Basico/lists.md)
-7. [Manipulação de Texto (color, font, links, text)](/Modulo-Basico/manipulacao-texto.md)
-8. [Display](/Modulo-Basico/display.md)
-9. [Position](/Modulo-Basico/position.md)
-10. [Z-index](/Modulo-Basico/z-index.md)
-11. [Units](/Modulo-Basico/units.md)
-12. [Transition](/Modulo-Basico/transition.md)
+1. [Seletores](/Modulo-Basico/seletores.md) (finalizado)
+2. [Box Model](/Modulo-Basico/box-model.md) (em construção)
+3. [Background](/Modulo-Basico/background.md) (em construção)
+4. [Border](/Modulo-Basico/border.md) (em construção)
+5. [Table](/Modulo-Basico/table.md) (em construção)
+6. [Lists](/Modulo-Basico/lists.md) (em construção)
+7. [Manipulação de Texto (color, font, links, text)](/Modulo-Basico/manipulacao-texto.md) (em construção)
+8. [Display](/Modulo-Basico/display.md) (finalizado)
+9. [Position](/Modulo-Basico/position.md) (finalizado)
+10. [Z-index](/Modulo-Basico/z-index.md) (em construção)
+11. [Units](/Modulo-Basico/units.md) (finalizado)
+12. [Transition](/Modulo-Basico/transition.md) (em construção)
 
-### Módulo Intermediário
+### Módulo Intermediário (em construção)
 
-1. [Pseudo-classes](/Modulo-Intermediario/pseudo-classes.md)
-2. [Pseudo-seletores](/Modulo-Intermediario/pseudo-seletores.md)
-3. [Flexbox](/Modulo-Intermediario/flexbox.md)
-4. [CSS Grid](/Modulo-Intermediario/css-grid.md)
-5. [Animation](/Modulo-Intermediario/animation.md)
+1. [Pseudo-classes](/Modulo-Intermediario/pseudo-classes.md) (em construção)
+2. [Pseudo-seletores](/Modulo-Intermediario/pseudo-seletores.md) (em construção)
+3. [Flexbox](/Modulo-Intermediario/flexbox.md) (em construção)
+4. [CSS Grid](/Modulo-Intermediario/css-grid.md) (em construção)
+5. [Animation](/Modulo-Intermediario/animation.md) (em construção)
 
 #### Referências
 
