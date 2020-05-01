@@ -12,7 +12,7 @@
 
 ## ROADMAP
 
-### Introdução (finalizado)
+### Introdução
 
 1. [Boas Vindas](/Introducao/boas-vindas.md)
 2. [Comunicação](/Introducao/comunicacao.md)
