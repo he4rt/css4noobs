@@ -22,9 +22,9 @@
 6. [Quais as suas vantagens](/Introducao/quais-suas-vantagens.md)
 7. [Adicionando CSS no nosso HTML](/Introducao/adicionando-css-no-html.md)
 
-### Configuração de Ambiente (finalizado)
+### Configuração de Ambiente
 
-1. [Ambiente e Aplicação](/Ambiente/plugins.md) (finalizado)
+1. [Ambiente e Aplicação](/Ambiente/plugins.md)
 
 ### Módulo Básico (em construção)
 
