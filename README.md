@@ -12,15 +12,15 @@
 
 ## ROADMAP
 
-### Introdução (em construção)
+### Introdução (finalizado)
 
-1. [Boas Vindas](/Introducao/boas-vindas.md) (finalizado)
-2. [Comunicação](/Introducao/comunicacao.md) (finalizado)
-3. [O que você precisa saber](/Introducao/o-que-voce-precisa-saber.md) (finalizado)
-4. [O que é CSS](/Introducao/o-que-e-css.md) (finalizado)
-5. [Como o CSS funciona](/Introducao/como-o-css-funciona.md) (em construção)
-6. [Quais as suas vantagens](/Introducao/quais-suas-vantagens.md) (em construção)
-7. [Adicionando CSS no nosso HTML](/Introducao/adicionando-css-no-html.md) (finalizado)
+1. [Boas Vindas](/Introducao/boas-vindas.md)
+2. [Comunicação](/Introducao/comunicacao.md)
+3. [O que você precisa saber](/Introducao/o-que-voce-precisa-saber.md)
+4. [O que é CSS](/Introducao/o-que-e-css.md)
+5. [Como o CSS funciona](/Introducao/como-o-css-funciona.md)
+6. [Quais as suas vantagens](/Introducao/quais-suas-vantagens.md)
+7. [Adicionando CSS no nosso HTML](/Introducao/adicionando-css-no-html.md)
 
 ### Configuração de Ambiente (finalizado)
 
