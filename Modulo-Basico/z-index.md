@@ -58,3 +58,4 @@ Mas eu quero que a **Div 2** fique por cima, então eu aplico a propriedade **z-
  - Só é possivel aplicar o z-index caso o elemento tenha uma **position** setada (relative, absolute, fixed, sticky).
     Por esse motivo aplicamos o z-index na div 1.
     
+    
