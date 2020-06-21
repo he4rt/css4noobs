@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/he4rt/4noobs" target="_blank">
+    <img src="./img/id-4noobs/header-4noobs.svg">
+  </a>
+</p>
+
 # css4noobs
 
 <h1 align="center"><img src="./img/logo-css.png" alt="php" width="120"></h1>
@@ -28,17 +34,17 @@
 
 ### Módulo Básico (em construção)
 
-1. [Seletores](/Modulo-Basico/seletores.md) (finalizado)
-2. [Box Model](/Modulo-Basico/box-model.md) (em construção)
+1. [Seletores](/Modulo-Basico/seletores.md) 
+2. [Box Model](/Modulo-Basico/box-model.md) 
 3. [Background](/Modulo-Basico/background.md) (em construção)
 4. [Border](/Modulo-Basico/border.md) (em construção)
 5. [Table](/Modulo-Basico/table.md) (em construção)
 6. [Lists](/Modulo-Basico/lists.md) (em construção)
 7. [Manipulação de Texto (color, font, links, text)](/Modulo-Basico/manipulacao-texto.md) (em construção)
-8. [Display](/Modulo-Basico/display.md) (finalizado)
-9. [Position](/Modulo-Basico/position.md) (finalizado)
+8. [Display](/Modulo-Basico/display.md) 
+9. [Position](/Modulo-Basico/position.md) 
 10. [Z-index](/Modulo-Basico/z-index.md) (em construção)
-11. [Units](/Modulo-Basico/units.md) (finalizado)
+11. [Units](/Modulo-Basico/units.md)
 12. [Transition](/Modulo-Basico/transition.md) (em construção)
 
 ### Módulo Intermediário (em construção)
@@ -75,4 +81,8 @@ são **extremamente apreciadas**
 
 - **Igor Wessel (igorwessel)** - _Developer & Member of He4rt Developers_ [Twitter](https://twitter.com/igor_wessel)
 
-<p align="center">Made with 💜</p>
+<p align="center">
+  <a href="https://github.com/he4rt/4noobs" target="_blank">
+    <img src="./img/id-4noobs/footer-4noobs.svg" width="380">
+  </a>
+</p>
