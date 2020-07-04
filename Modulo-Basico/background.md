@@ -21,9 +21,9 @@ Os valores podem ter quatro padrões
 
 - Padrão Hexadecimal: Você pode definir o fundo usando o hexadecimal de uma cor. Ex: `background-color: #ff0015` para a cor vermelha.
 
-- Padrão RGB: Você pode definir o fundo usando o RGB de uma cor. Ex: `background-color: rgb(255, 0, 0)` para a cor verde.
+- Padrão RGB: Você pode definir o fundo usando o RGB de uma cor. Ex: `background-color: rgb(255, 0, 0)` para a para a cor vermelha.
 
-- Padrão RGBA: Você pode definir o fundo usando o RGBA de uma cor. Ex: `background-color: rgba(255, 0, 0, 0.5)` para a cor verde. O parâmetro A, ou alfa, possibilita definir a opacidade de uma cor. 
+- Padrão RGBA: Você pode definir o fundo usando o RGBA de uma cor. Ex: `background-color: rgba(255, 0, 0, 0.5)` para a cor vermelha. O parâmetro A, ou alfa, possibilita definir a opacidade de uma cor. 
 
 ## Background Image (background-image)
 
