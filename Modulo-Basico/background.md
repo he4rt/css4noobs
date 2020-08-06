@@ -92,7 +92,7 @@ Os valores podem ter dois padrões
 - fixed: Você pode definir que a imagem fique fixada. Ex: `background-attachment: fixed`
 - scrool: Você pode definir que a imagem se mova com o scrool. Ex: `background-attachment: scroll;`
 
-## background Position (background-position)
+## Background Position (background-position)
 
 Com o `background-position` você pode definir o a posição inicial em que a imagem irá se posicionar.
 
@@ -128,4 +128,4 @@ Os valores da propriedade de posição de background, podem ser feitas de vária
 | initial       | Define o padrão default como valor.                                                                                                            |
 | inherity      | Herda os valores do elemento pai.                                                                                                              |
 
-**Obs: Em qualquer um dos casos, se você definir apenas o primeiro valor, ele define o segundo automaticamente**
+**Obs: Em qualquer um dos casos, se você definir apenas o primeiro valor, ele define o segundo automaticamente. Para os 9 primeiros exemplos, ele definirá o valor do eixo vertical como center, para os exemplos de porcentagem e medidas de CSS, ele aplicará o valor do eixo vertical como 50%.**
