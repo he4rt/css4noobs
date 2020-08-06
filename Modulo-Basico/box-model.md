@@ -29,9 +29,10 @@ Como dito acima, o box model é composto por margem, padding, borda e conteúdo.
 **Conteúdo** - Como o nome diz, é o conteúdo desse box. Pode ser texto, imagem, link. É onde o seu conteúdo final irá aparecer.
 
 Por exemplo
+
 ```html
 <div>
-Exemplo de conteúdo
+  Exemplo de conteúdo
 </div>
 ```
 
@@ -46,14 +47,16 @@ Exemplo de conteúdo
 É importe lembrar que o tamanho final do seu elemento, será uma somatória de todas as medidas que você definiu para essas propriedades.
 
 Se temos:
+
 ```css
 div {
   width: 320px;
   padding: 10px;
   border: 5px solid #000;
-  margin:0;
+  margin: 0;
 }
 ```
+
 O tamanho total do seu elemento é calculado como uma equação, onde temos:
 
 Largura total = width + padding a esquerda + padding a direita + borda a esquerda + borda a direita + margem a esquerda + margem a direita
