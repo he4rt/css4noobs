@@ -34,16 +34,16 @@
 
 ### Módulo Básico (em construção)
 
-1. [Seletores](/Modulo-Basico/seletores.md) 
-2. [Box Model](/Modulo-Basico/box-model.md) 
-3. [Background](/Modulo-Basico/background.md) (em construção)
-4. [Border](/Modulo-Basico/border.md) (em construção)
+1. [Seletores](/Modulo-Basico/seletores.md)
+2. [Box Model](/Modulo-Basico/box-model.md)
+3. [Background](/Modulo-Basico/background.md)
+4. [Border](/Modulo-Basico/border.md)
 5. [Table](/Modulo-Basico/table.md) (em construção)
 6. [Lists](/Modulo-Basico/lists.md) (em construção)
 7. [Manipulação de Texto (color, font, links, text)](/Modulo-Basico/manipulacao-texto.md) (em construção)
-8. [Display](/Modulo-Basico/display.md) 
-9. [Position](/Modulo-Basico/position.md) 
-10. [Z-index](/Modulo-Basico/z-index.md) (em construção)
+8. [Display](/Modulo-Basico/display.md)
+9. [Position](/Modulo-Basico/position.md)
+10. [Z-index](/Modulo-Basico/z-index.md)
 11. [Units](/Modulo-Basico/units.md)
 12. [Transition](/Modulo-Basico/transition.md) (em construção)
 

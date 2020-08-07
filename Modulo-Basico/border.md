@@ -1,41 +1,46 @@
 # Border - O que diabos é isso?
 
-A propriedade ```border``` permite adicionar uma borda no seu elemento e definir um estilo (```border-style```), largura (```border-width```) e cor (```border-color```).
+A propriedade `border` permite adicionar uma borda no seu elemento e definir um estilo (`border-style`), largura (`border-width`) e cor (`border-color`).
 
-Assim como a propriedade ```margin``` e ```padding``` ela também irá compor o seu [*box-model*](./box-model.md).
+Assim como a propriedade `margin` e `padding` ela também irá compor o seu [_box-model_](./box-model.md).
 
-Você pode definir a propriedade em uma única declaração, as chamadas *shorthands*, por exemplo:
+Você pode definir a propriedade em uma única declaração, as chamadas _shorthands_, por exemplo:
+
 ```css
-border: 5px solid #C6C6C6;
+border: 5px solid #c6c6c6;
 ```
+
 Você pode ler essa mesma linha acima sendo:
 
 ```css
-border: [border-width] [border-style] [border-color]
+border: [border-width] [border-style] [border-color];
 ```
 
 ## border-width
 
 Essa propriedade permite que você defina qual a largura será aplicada para a borda, podendo também especificar um tamanho para cada lado.
 
-Você pode definir a largura da borda utilizando alguma unidade como px, pt, cm, em, % e outras, ou pode também utilizar valores pre-definidos como *thin*, *medium* e *thick*
+Você pode definir a largura da borda utilizando alguma unidade como px, pt, cm, em, % e outras, ou pode também utilizar valores pre-definidos como _thin_, _medium_ e _thick_
 
 ```css
 border-style: solid;
 border-width: 5px;
 ```
+
 <img src="../img/border/border-width_5px.jpg"><br>
 
 ```css
 border-style: solid;
 border-width: medium;
 ```
+
 <img src="../img/border/border-width-medium.jpg"><br>
 
 ```css
 border-style: dotted;
 border-width: 5px;
 ```
+
 <img src="../img/border/border-width-10px.jpg"><br>
 
 ## border-style
@@ -44,30 +49,31 @@ Essa propriedade define define qual estilo a sua borda terá, podendo aplicar um
 
 Você pode aplicar os seguintes estilos:
 
-```dotted``` - A borda será preenchida com pontos<br>
-  <img src="../img/border/border-style-dotted.jpg"><br>
-```dashed``` - A borda será preenchida com traços<br>
+`dotted` - A borda será preenchida com pontos<br>
+<img src="../img/border/border-style-dotted.jpg"><br>
+`dashed` - A borda será preenchida com traços<br>
 <img src="../img/border/border-style-dashed.jpg"><br>
-```solid```  - A borda possuirá um preenchimento sólido<br>
+`solid` - A borda possuirá um preenchimento sólido<br>
 <img src="../img/border/border-style-solid.jpg"><br>
-```double``` - A borda será composta por dois traços sólidos<br>
+`double` - A borda será composta por dois traços sólidos<br>
 <img src="../img/border/border-style-double.jpg"><br>
-```groove``` - Aplica um padrão de sombra com aparência 3D<br>
+`groove` - Aplica um padrão de sombra com aparência 3D<br>
 <img src="../img/border/border-style-groove.jpg"><br>
-```ridge``` - Aplica um padrão de sombra elevada com aparência 3D<br>
+`ridge` - Aplica um padrão de sombra elevada com aparência 3D<br>
 <img src="../img/border/border-style-ridge.jpg"><br>
-```inset``` - Aplica um padrão de sombra em baixo relevo com efeito 3D<br>
+`inset` - Aplica um padrão de sombra em baixo relevo com efeito 3D<br>
 <img src="../img/border/border-style-inset.jpg"><br>
-```outset``` - Aplica um padrnao de sombra em alto relevo com efeito 3D<br>
+`outset` - Aplica um padrnao de sombra em alto relevo com efeito 3D<br>
 <img src="../img/border/border-style-outset.jpg"><br>
-```none``` - Não exibe borda no elemento<br>
-```hidden``` - Oculta a borda do elemento<br>
+`none` - Não exibe borda no elemento<br>
+`hidden` - Oculta a borda do elemento<br>
 
 Você também pode aplicar um estilo individual para cada lado do seu elemento, como no exemplo a baixo:
 
 ```css
-border-style: double dotted solid dashed
+border-style: double dotted solid dashed;
 ```
+
 <img src="../img/border/border-style-mix.jpg"><br>
 
 ## border-color
@@ -78,31 +84,35 @@ Essa propriedade permite que você defina qual cor será aplicada na borda. Voc�
 
 **HEX** - Define a cor através de um valor hexadecimal como #FFFFFF ou ##af47ff<br>
 
-**RGB** - Define a cor através de um valor da curva rgb, como *rgb(255,255,255)*<br>
+**RGB** - Define a cor através de um valor da curva rgb, como _rgb(255,255,255)_<br>
 
-**HSL** - Define a cor através de um valor definido por hue, saturação e luminosidade como *hsl(0, 100%, 50%)*<br>
+**HSL** - Define a cor através de um valor definido por hue, saturação e luminosidade como _hsl(0, 100%, 50%)_<br>
 
 **transparent**
 
-***OBS***: Caso não seja definido nenhuma cor para a borda, ela aplicará a cor do elemento.
+**_OBS_**: Caso não seja definido nenhuma cor para a borda, ela aplicará a cor do elemento.
 
 ```css
-border-color:orange;
+border-color: orange;
 ```
+
 <img src="../img/border/border-color-orange.jpg"/>
 
 ```css
-border-color:rgb(235, 52, 85);
+border-color: rgb(235, 52, 85);
 ```
+
 <img src="../img/border/border-color-rgb.jpg"/>
 
 ```css
-border-color:#663681;
+border-color: #663681;
 ```
+
 <img src="../img/border/border-color-hex.jpg"/>
 
 #
-Todas essas declarações ```border-width```, ```border-color``` ou ```border-style``` também podem ser feitas passando especificamente em qual lado você quer aplicar. Essa solução se aplica quando você não pretende aplicar a borda em todo o elemento.
+
+Todas essas declarações `border-width`, `border-color` ou `border-style` também podem ser feitas passando especificamente em qual lado você quer aplicar. Essa solução se aplica quando você não pretende aplicar a borda em todo o elemento.
 
 ```css
 border-top-color#663681;
@@ -118,6 +128,7 @@ border-left-style:solid;
 
 border-right-color:#28cef7;
 border-right-style:double;
-border-right-width: 10px;  
+border-right-width: 10px;
 ```
+
 <img src="../img/border/border-separadas.jpg"/>
