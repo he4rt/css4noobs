@@ -40,12 +40,12 @@
 4. [Border](/Modulo-Basico/border.md)
 5. [Table](/Modulo-Basico/table.md) (em construção)
 6. [Lists](/Modulo-Basico/lists.md) (em construção)
-7. [Manipulação de Texto (color, font, links, text)](/Modulo-Basico/manipulacao-texto.md) (em construção)
+7. [Manipulação de Texto (color, font, links, text)](/Modulo-Basico/manipulacao-texto.md)
 8. [Display](/Modulo-Basico/display.md)
 9. [Position](/Modulo-Basico/position.md)
 10. [Z-index](/Modulo-Basico/z-index.md)
 11. [Units](/Modulo-Basico/units.md)
-12. [Transition](/Modulo-Basico/transition.md) (em construção)
+12. [Transition](/Modulo-Basico/transition.md)
 
 ### Módulo Intermediário (em construção)
 
