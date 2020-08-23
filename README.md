@@ -81,6 +81,8 @@ são **extremamente apreciadas**
 
 - **Igor Wessel (igorwessel)** - _Developer & Member of He4rt Developers_ [Twitter](https://twitter.com/igor_wessel)
 
+- **Giovane Cardoso (Novout)** - _Developer & Member of He4rt Developers_ [Twitter](https://twitter.com/NovoutT)
+
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
     <img src="./img/id-4noobs/footer-4noobs.svg" width="380">
