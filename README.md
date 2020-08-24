@@ -51,7 +51,7 @@
 2. [Pseudo-seletores](/Modulo-Intermediario/pseudo-seletores.md)
 3. [Flexbox](/Modulo-Intermediario/flexbox.md)
 4. [CSS Grid](/Modulo-Intermediario/css-grid.md)
-5. [Animation](/Modulo-Intermediario/animation.md) (em construção)
+5. [Variáveis CSS](/Modulo-Intermediario/variables.md)
 
 #### Referências
 
