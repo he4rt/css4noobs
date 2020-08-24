@@ -34,6 +34,20 @@ Vamos usar como exemplo o seguinte elemento HTML.
 </nav>
 ```
 
+## Manipulando o flexbox
+
+Utilizando `flex-direction: row/column` podemos indicar a direção dos elementos afetados pelo flex.
+
+Utilizando `flex-wrap: wrap/nowrap` indicamos se o elemento irá quebrar ou não.
+
+Utilizando `flex-flow: [row/column] [wrap/nowrap]` seria a junção do `flex-direction` com `flex-wrap`.
+
+Utilizando `justify-content: center/strart/end/flex-start/flex-end/left/right` alinhamos o posicionamento horizontal dos elementos sem afetar o tamanho deles.
+
+Utilizando `align-items: center/stretch` podemos alinhar os elementos na vertical, afetando diretamento o tamanho.
+
+* Também existe o `justify-items` e o `align-content`, assim como a junção dos elementos como o `place-content` e o `place-items`.
+
 ## Referências
 
 - [Conceitos básicos do Flexbox](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Conceitos_Basicos_do_Flexbox)

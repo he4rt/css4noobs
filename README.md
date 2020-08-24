@@ -51,7 +51,7 @@
 
 1. [Pseudo-classes](/Modulo-Intermediario/pseudo-classes.md)
 2. [Pseudo-seletores](/Modulo-Intermediario/pseudo-seletores.md)
-3. [Flexbox](/Modulo-Intermediario/flexbox.md) (em construção)
+3. [Flexbox](/Modulo-Intermediario/flexbox.md)
 4. [CSS Grid](/Modulo-Intermediario/css-grid.md) (em construção)
 5. [Animation](/Modulo-Intermediario/animation.md) (em construção)
 
