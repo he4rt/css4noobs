@@ -1,5 +1,6 @@
 ## 2.1 Plugins
 
+## Utilizando VSCode
 
 <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="vscode" width="120">
 Como editor de texto padrão para CSS utlizaremos o <a href="https://code.visualstudio.com/download">Visual Studio Code</a> e mostrarei os melhores Plugins e Extensões que você pode utilizar quando for editar seus arquivos CSS. Lembrando que esses plugins somente podem ajudar a agilizar o seu desenvolvimento e nada além disso.
@@ -27,4 +28,6 @@ Ainda na ala dos plugins mais populares, temos o IntelliSense for CSS. Ele pode 
 
 Hoje em dia o foco dos desenvolvedores está na produtividade e agilidade, e o SASS chega pra proporcionar isso. Ele é um pré-processador e framework de CSS que gera arquivos CSS para o usuário cada vez que é compilado. Isso agiliza e modula o trabalho em arquivos com poucas linhas. Sendo assim, o tempo de desenvolvimento de páginas pode ser otimizado através desse framework. Vou evitar citar mais coisa pois são coisas mais complexas, porém se você ficou interessado, leia o <a href="https://sass-lang.com/guide">guia</a> do próprio site do SASS.
 
+# Utilizando Webstorm
 
+Uma boa opção é o [Webstorm](https://www.jetbrains.com/pt-br/webstorm/), em geral ele não necessita de plugins adicionais para melhorar a experiência com CSS, e sua integração com framework's javascript como React e Vue funcionam muito bem!

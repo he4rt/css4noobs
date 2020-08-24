@@ -38,22 +38,21 @@
 2. [Box Model](/Modulo-Basico/box-model.md)
 3. [Background](/Modulo-Basico/background.md)
 4. [Border](/Modulo-Basico/border.md)
-5. [Table](/Modulo-Basico/table.md) (em construção)
-6. [Lists](/Modulo-Basico/lists.md) (em construção)
-7. [Manipulação de Texto (color, font, links, text)](/Modulo-Basico/manipulacao-texto.md) (em construção)
-8. [Display](/Modulo-Basico/display.md)
-9. [Position](/Modulo-Basico/position.md)
-10. [Z-index](/Modulo-Basico/z-index.md)
-11. [Units](/Modulo-Basico/units.md)
-12. [Transition](/Modulo-Basico/transition.md) (em construção)
+5. [Manipulação de Texto (color, font, links, text)](/Modulo-Basico/manipulacao-texto.md)
+6. [Display](/Modulo-Basico/display.md)
+7. [Position](/Modulo-Basico/position.md)
+8. [Z-index](/Modulo-Basico/z-index.md)
+9. [Units](/Modulo-Basico/units.md)
+10. [Transition](/Modulo-Basico/transition.md)
 
 ### Módulo Intermediário (em construção)
 
-1. [Pseudo-classes](/Modulo-Intermediario/pseudo-classes.md) (em construção)
-2. [Pseudo-seletores](/Modulo-Intermediario/pseudo-seletores.md) (em construção)
-3. [Flexbox](/Modulo-Intermediario/flexbox.md) (em construção)
-4. [CSS Grid](/Modulo-Intermediario/css-grid.md) (em construção)
-5. [Animation](/Modulo-Intermediario/animation.md) (em construção)
+1. [Pseudo-classes](/Modulo-Intermediario/pseudo-classes.md)
+2. [Pseudo-seletores](/Modulo-Intermediario/pseudo-seletores.md)
+3. [Flexbox](/Modulo-Intermediario/flexbox.md)
+4. [CSS Grid](/Modulo-Intermediario/css-grid.md)
+5. [Variáveis CSS](/Modulo-Intermediario/variables.md)
+6. [PostCSS](/Modulo-Intermediario/postcss.md)
 
 #### Referências
 
@@ -80,6 +79,8 @@ são **extremamente apreciadas**
 - **Gabriel Angelo (Angells1)** - _Frontend Developer & Member of He4rt Developers_ [Twitter](https://twitter.com/edea_dinsid)
 
 - **Igor Wessel (igorwessel)** - _Developer & Member of He4rt Developers_ [Twitter](https://twitter.com/igor_wessel)
+
+- **Giovane Cardoso (Novout)** - _Developer & Member of He4rt Developers_ [Twitter](https://twitter.com/NovoutT)
 
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
