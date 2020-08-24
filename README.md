@@ -52,6 +52,7 @@
 3. [Flexbox](/Modulo-Intermediario/flexbox.md)
 4. [CSS Grid](/Modulo-Intermediario/css-grid.md)
 5. [Variáveis CSS](/Modulo-Intermediario/variables.md)
+6. [PostCSS](/Modulo-Intermediario/postcss.md)
 
 #### Referências
 
