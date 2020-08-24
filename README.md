@@ -8,7 +8,7 @@
 
 <h1 align="center"><img src="./img/logo-css.png" alt="php" width="120"></h1>
 
-<p align="center">CSS básico para iniciantes. (Em construção)</p>
+<p align="center">CSS básico para iniciantes.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -32,7 +32,7 @@
 
 1. [Ambiente e Aplicação](/Ambiente/plugins.md)
 
-### Módulo Básico (em construção)
+### Módulo Básico
 
 1. [Seletores](/Modulo-Basico/seletores.md)
 2. [Box Model](/Modulo-Basico/box-model.md)
@@ -45,7 +45,7 @@
 9. [Units](/Modulo-Basico/units.md)
 10. [Transition](/Modulo-Basico/transition.md)
 
-### Módulo Intermediário (em construção)
+### Módulo Intermediário
 
 1. [Pseudo-classes](/Modulo-Intermediario/pseudo-classes.md)
 2. [Pseudo-seletores](/Modulo-Intermediario/pseudo-seletores.md)
