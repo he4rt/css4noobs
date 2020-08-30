@@ -16,6 +16,9 @@
   </a>
 </p>
 
+
+#### Switch to english: <kbd>[<img title="English" alt="English" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/us.svg" width="22">](english/README.en.md)</kbd>
+
 ## ROADMAP
 
 ### Introdução
@@ -32,16 +35,18 @@
 
 ### Módulo Básico
 
-1. [Seletores](/Modulo-Basico/seletores.md)
+1. [Seletores](/Modulo-Basico/selectors.md)
 2. [Box Model](/Modulo-Basico/box-model.md)
-3. [Background](/Modulo-Basico/background.md)
-4. [Border](/Modulo-Basico/border.md)
-5. [Manipulação de Texto (color, font, links, text)](/Modulo-Basico/manipulacao-texto.md)
-6. [Display](/Modulo-Basico/display.md)
-7. [Position](/Modulo-Basico/position.md)
-8. [Z-index](/Modulo-Basico/z-index.md)
-9. [Units](/Modulo-Basico/units.md)
-10. [Transition](/Modulo-Basico/transition.md)
+3. [Box Shadow](/Modulo-Basico/box-shadow.md)
+4. [Background](/Modulo-Basico/background.md)
+5. [Border](/Modulo-Basico/border.md)
+6. [Border Radius](/Modulo-Basico/border-radius.md)
+7. [Manipulação de Texto (color, font, links, text)](/Modulo-Basico/manipulacao-texto.md)
+8. [Display](/Modulo-Basico/display.md)
+9. [Position](/Modulo-Basico/position.md)
+10. [Z-index](/Modulo-Basico/z-index.md)
+11. [Units](/Modulo-Basico/units.md)
+12. [Transition](/Modulo-Basico/transition.md)
 
 ### Módulo Intermediário
 
@@ -51,11 +56,13 @@
 4. [CSS Grid](/Modulo-Intermediario/css-grid.md)
 5. [Variáveis CSS](/Modulo-Intermediario/variables.md)
 6. [PostCSS](/Modulo-Intermediario/postcss.md)
+7. [Funções](/Modulo-Intermediario/variables.md)
 
 #### Referências
 
-[https://cdn.rawgit.com/hostinger/banners/94941d64/tutorials/pdf/CSS-3-Cheatsheet.pdf](https://cdn.rawgit.com/hostinger/banners/94941d64/tutorials/pdf/CSS-3-Cheatsheet.pdf)
-[https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/](https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/)
+- [https://cdn.rawgit.com/hostinger/banners/94941d64/tutorials/pdf/CSS-3-Cheatsheet.pdf](https://cdn.rawgit.com/hostinger/banners/94941d64/tutorials/pdf/CSS-3-Cheatsheet.pdf)
+- [https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/](https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/)
+- [https://www.w3schools.com/css/default.asp](https://www.w3schools.com/css/default.asp)
 
 ## Como Contribuir
 
