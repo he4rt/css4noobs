@@ -18,7 +18,7 @@ Aplicando em um Seletor:
 
 ```css
 p {
-  color: #AAAAAA;
+  color: #aaaaaa;
 }
 ```
 
@@ -30,21 +30,45 @@ O CSS irá dar prioridade sempre para a primeira fonte a esquerda, em caso de n�
 
 ```css
 p {
-  font-family: 'Poppins', 'Raleway', 'Muli';
+  font-family: "Poppins", "Raleway", "Muli";
 }
 ```
 
 Ou seja, se a fonte Poppins não for encontrada, irá chamar a Raleway, se não achar a Raleway, irá chamar a Muli, e se não achar a Muli, irá carregar uma fonte padrão.
+
+## Estilos
+
+Para aplicar um estlio a uma fonte, usamos `font-style: 'nome do estilo'`, por exemplo
+
+```css
+p {
+  font-style: italic;
+}
+```
+
+Ou seja todas as tags `<p>` da pagina vão está com o estilo da fonte em itálico.
+
+## Peso
+
+Para aplicar um peso a uma fonte, usamos `font-weight: 'nome do peso da fonte'`, por exemplo.
+
+```css
+h1 {
+  font-weight: bold;
+}
+```
+
+Ou seja todas as tags `<h1>` da pagina vão está com o peso da fonte `bold`.
 
 ## Importar Fontes
 
 Por requisição usando o Google Fonts, podemos usar o `@import` no nosso arquivo CSS e utilizar a fonte:
 
 ```css
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
 p {
-  font-family: 'Poppins', 'sans-serif';
+  font-family: "Poppins", "sans-serif";
 }
 ```
 
@@ -56,8 +80,8 @@ Podemos registrar fontes localmente, usando o `@font-face`:
 
 ```css
 @font-face {
-  font-family: 'Poppins Normal';  
-  src: url('./to/path/fonts/Poppins-Medium.otf') format('opentype');
+  font-family: "Poppins Normal";
+  src: url("./to/path/fonts/Poppins-Medium.otf") format("opentype");
 }
 ```
 
@@ -65,7 +89,7 @@ Podemos registrar fontes localmente, usando o `@font-face`:
 
 ```css
 p {
-  font-family: 'Poppins Normal', 'sans-serif';
+  font-family: "Poppins Normal", "sans-serif";
 }
 ```
 
@@ -86,4 +110,4 @@ a {
 }
 ```
 
-* Usando o `text-decoration: none;` tiramos a linha inferior que vem por padrão.
+- Usando o `text-decoration: none;` tiramos a linha inferior que vem por padrão.
