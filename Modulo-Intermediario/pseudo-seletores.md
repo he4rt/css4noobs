@@ -2,17 +2,18 @@
 
 Já aprendemos os seletores básicos do CSS, mas que tal dar uma aprofundada?
 
-## *
+## \*
 
 Este seletor é usado para **resetar o css** que vem "por padrão", assim temos todo os elementos da página como alvo.
 
-Exemplo de * que é bastante utilizado:
+Exemplo de \* que é bastante utilizado:
 
 ```css
 * {
   padding: 0;
   margin: 0;
   outline: 0;
+  box-sizing: border-box;
 }
 ```
 
@@ -46,7 +47,7 @@ O seletor é parecido com o A + B, com a diferença que irá selecionar todos os
 
 ```css
 ul ~ section {
- background-color: red;
+  background-color: red;
 }
 ```
 
