@@ -20,4 +20,4 @@ Onde:
 
 - E o ultimo atributo `rgba(0, 0, 0, 0.2)` é a cor que essa sombra vai receber `color`.
 
-O [Box-shadow generator](https://www.cssmatic.com/box-shadow) é uma ferrament interativa que permite a criação de box-shadow.
+O [Box-shadow generator](https://www.cssmatic.com/box-shadow) é uma ferramenta interativa que permite a criação de box-shadow.
