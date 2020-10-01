@@ -36,14 +36,15 @@
 
 1. [Seletores](/Modulo-Basico/seletores.md)
 2. [Box Model](/Modulo-Basico/box-model.md)
-3. [Background](/Modulo-Basico/background.md)
-4. [Border](/Modulo-Basico/border.md)
-5. [Manipulação de Texto (color, font, links, text)](/Modulo-Basico/manipulacao-texto.md)
-6. [Display](/Modulo-Basico/display.md)
-7. [Position](/Modulo-Basico/position.md)
-8. [Z-index](/Modulo-Basico/z-index.md)
-9. [Units](/Modulo-Basico/units.md)
-10. [Transition](/Modulo-Basico/transition.md)
+3. [Box Shadow](/Modulo-Basico/box-shadow.md)
+4. [Background](/Modulo-Basico/background.md)
+5. [Border](/Modulo-Basico/border.md)
+6. [Manipulação de Texto (color, font, links, text)](/Modulo-Basico/manipulacao-texto.md)
+7. [Display](/Modulo-Basico/display.md)
+8. [Position](/Modulo-Basico/position.md)
+9. [Z-index](/Modulo-Basico/z-index.md)
+10. [Units](/Modulo-Basico/units.md)
+11. [Transition](/Modulo-Basico/transition.md)
 
 ### Módulo Intermediário
 
