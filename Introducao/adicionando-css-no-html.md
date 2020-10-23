@@ -8,7 +8,6 @@ Podemos usar a tag `<style>` para estilizar nossas páginas HTML.
 
 Para trabalharmos com ela, basta adicionar a tag dentro da `<head>` da nosso documento HTML.
 
-
 ```html
 <html>
   <head>
@@ -57,7 +56,7 @@ Suponhamos que nossa estrutura de pastas está da seguinte forma:
 
 ![](../img/Introducao/projeto-1.png)
 
-O que é comum fazer é criarmos uma pasta onde criaremos nossos arquivos .css e dentro dela criar os arquivos em si, deixando a estrutura de pastas mais ou menos dessa forma:
+O que é comum fazer é criarmos uma pasta onde criaremos nossos arquivos.css e dentro dela criar os arquivos em si, deixando a estrutura de pastas mais ou menos dessa forma:
 
 ![](../img/Introducao/projeto-2.png)
 
@@ -78,6 +77,7 @@ E como fazemos pra que nosso arquivo HTML entenda essas regras? Com a tag `<link
   </body>
 </html>
 ```
-onde:
+
+Onde:
 - __rel__ = a relação que esse link tem com nosso arquivo (nesse caso é um stylesheet).
 - __href__ = a referência de onde esse arquivo está (no nosso caso, dentro da pasta _css_ com o nome _main.css_).
