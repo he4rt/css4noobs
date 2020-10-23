@@ -1,4 +1,3 @@
-
 # Flexbox - display: flex
 
 Aqui iremos aprender um pouco sobre o display: flex (ou Flexbox), uma propriedade muito importante nos dias de hoje, usado comumente na maioria dos sites e que nos ajuda demais durante o desenvolvimento do projeto.
@@ -19,7 +18,7 @@ Como citado acima, o flexbox pode funcionar tanto em linha quanto em coluna. Pra
 
 Vamos usar como exemplo o seguinte elemento HTML.
 
-```
+```html
 <nav class="navbar">
   <div class="logo">
     <img src="logo.png">
@@ -44,7 +43,7 @@ Utilizando `flex-flow: [row/column] [wrap/nowrap]` seria a junção do `flex-dir
 
 Utilizando `justify-content: center/strart/end/flex-start/flex-end/left/right` alinhamos o posicionamento horizontal dos elementos sem afetar o tamanho deles.
 
-Utilizando `align-items: center/stretch` podemos alinhar os elementos na vertical, afetando diretamento o tamanho.
+Utilizando `align-items: center/stretch` podemos alinhar os elementos na vertical, afetando diretamente o tamanho.
 
 * Também existe o `justify-items` e o `align-content`, assim como a junção dos elementos como o `place-content` e o `place-items`.
 

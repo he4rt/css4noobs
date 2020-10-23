@@ -31,7 +31,7 @@ ul > li {
 
 ## A + B
 
-O seletor adjascente irá selecionar somente o elemento imediatamente(B) após o primeiro(A) elemento.
+O seletor adjacente irá selecionar somente o elemento imediatamente(B) após o primeiro(A) elemento.
 
 No exemplo a seguir, ele irá chamar o segundo span, e não o primeiro.
 
@@ -51,4 +51,4 @@ ul ~ section {
 }
 ```
 
-Existem outros seletores bastante específicos, mas nesta seção mostramos apenas os principais e que concerteza você irá utilizá-los!
+Existem outros seletores bastante específicos, mas nesta seção mostramos apenas os principais e que com certeza você irá utilizá-los!

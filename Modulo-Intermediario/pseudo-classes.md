@@ -1,6 +1,6 @@
 # Pseudo-Classes
 
-Já vimos algumas pseudo-classes nas seções anteriores como o :hover, e sua sintaxe base seria:
+Já vimos algumas pseudo-classes nas seções anteriores como o :hover, sua sintaxe base seria:
 
 ```css
 seletor:pseudo-classe {
