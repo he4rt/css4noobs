@@ -88,7 +88,7 @@ Essa propriedade permite que você defina qual cor será aplicada na borda. Voc�
 
 **HSL** - Define a cor através de um valor definido por hue, saturação e luminosidade como _hsl(0, 100%, 50%)_<br>
 
-**transparent**
+**transparent** - Não define uma cor, mas ainda irá ocupar o espaço definido pelo `border-width`<br>
 
 **_OBS_**: Caso não seja definido nenhuma cor para a borda, ela aplicará a cor do elemento.
 

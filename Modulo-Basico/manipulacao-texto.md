@@ -34,7 +34,7 @@ p {
 }
 ```
 
-Ou seja, se a fonte Poppins não for encontrada, irá chamar a Raleway, se não achar a Raleway, irá chamar a Muli, e se não achar a Muli, irá carregar uma fonte padrão.
+Ou seja, se a fonte Poppins não for encontrada, irá chamar a Raleway, se não achar a Raleway, irá chamar a Muli, e se não achar a Muli, irá carregar uma fonte padrão do navegador.
 
 ## Estilos
 

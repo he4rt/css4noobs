@@ -10,6 +10,13 @@ Aqui temos duas divs:
   <img src="../img/Modulo-Basico/z-index/padrao-divs.png" />
 </p>
 
+HTML:
+```html
+<div class="um"></div>
+<div class="dois"></div>
+```
+
+CSS:
 ```css
 .um {
   width: 100px;
