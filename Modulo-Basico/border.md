@@ -96,39 +96,37 @@ Essa propriedade permite que você defina qual cor será aplicada na borda. Voc�
 border-color: orange;
 ```
 
-<img src="../img/border/border-color-orange.jpg"/>
+<img src="../img/border/border-color-orange.jpg"/><br>
 
 ```css
 border-color: rgb(235, 52, 85);
 ```
 
-<img src="../img/border/border-color-rgb.jpg"/>
+<img src="../img/border/border-color-rgb.jpg"/><br>
 
 ```css
 border-color: #663681;
 ```
 
-<img src="../img/border/border-color-hex.jpg"/>
-
-#
+<img src="../img/border/border-color-hex.jpg"/><br>
 
 Todas essas declarações `border-width`, `border-color` ou `border-style` também podem ser feitas passando especificamente em qual lado você quer aplicar. Essa solução se aplica quando você não pretende aplicar a borda em todo o elemento.
 
 ```css
-border-top-color#663681;
-border-top-style:dashed;
+border-top-color: #663681;
+border-top-style: dashed;
 border-top-width: 2px;
 
-border-bottom-color:#b32d88;
-border-bottom-style:dotted;
+border-bottom-color: #b32d88;
+border-bottom-style: dotted;
 border-bottom-width: thick;
 
-border-left-color:#ffa436;
-border-left-style:solid;
+border-left-color: #ffa436;
+border-left-style: solid;
 
-border-right-color:#28cef7;
-border-right-style:double;
+border-right-color: #28cef7;
+border-right-style: double;
 border-right-width: 10px;
 ```
 
-<img src="../img/border/border-separadas.jpg"/>
+<img src="../img/border/border-separadas.jpg"/><br>

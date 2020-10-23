@@ -95,7 +95,7 @@ p {
 
 # Links
 
-Para conseguirmos navegar por link's, podemos usar o `<a></a>` usando `href`:
+Para conseguirmos navegar por link's, podemos usar a tag `<a>` usando `href`:
 
 `<a href="https://github.com/mathh95/css4noobs">Ir para o CSS4Noobs</a>`
 

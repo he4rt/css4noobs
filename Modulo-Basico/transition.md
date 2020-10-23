@@ -17,5 +17,6 @@ div {
 div:hover {
   width: 100vw;
 }
+```
 
-* Podemos utilizar o `all` como `<elemento>` para afetar todos os elementos que estão no seletor, mas fazendo isso a transição irá ser acionada também quando a tela da aplicação for redimencionada.
+* Podemos utilizar o `all` como `<elemento>` para afetar todos os elementos que estão no seletor, mas fazendo isso a transição irá ser acionada também quando a tela da aplicação for redimensionada.

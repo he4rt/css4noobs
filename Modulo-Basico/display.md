@@ -10,11 +10,9 @@ Antes de partimos, você precisa ter outra visão sobre os elementos HTML. Toda 
 
 Começando pelo mais simples, o display block possui duas características básicas: ele sempre ocupa todo espaço disponível na horizontal e sempre começará a partir de uma **nova** linha.
 
-<br>
-
 ### Vamos para o exemplo, irei criar dois elementos button.
 
-Html
+HTML
 
 ```html
 <button class="btn">Block</button>
@@ -25,11 +23,9 @@ Html
 
 ![Btn](../img/block-buttons.gif)
 
-<br>
-
 ### Agora vamos aplicar o display block no primeiro button e você verá a mágica acontecendo.
 
-Css
+CSS
 
 ```css
 .btn {
@@ -42,8 +38,6 @@ Css
 ![Btn](../img/block-buttons2.gif)
 
 Note o efeito resultante, o simples fato do primeiro button ter o display block joga o elemento concorrente para a linha seguinte.
-
-<br>
 
 ### Algumas considerações
 
@@ -58,8 +52,6 @@ Mesmo que elementos block ocupem todo o espaço horizontalmente, você pode seta
 - header
 - footer
 - section
-
-<br>
 
 ## Display Inline
 
@@ -86,8 +78,6 @@ Novamente criei dois elementos. Nesse caso terei que aplicar a propriedade em am
 
 ![Btn](../img/inline1.png)
 
-<br>
-
 ### Aplicando o Inline
 
 ```css
@@ -107,24 +97,18 @@ Note que o tamanho do elemento é determinado **apenas** pelo seu conteúdo.
 
 Algo muito importante sobre o display inline é que ele não obedece nenhum tipo de definição de largura ou altura, sendo assim, seu tamanho é definido somente pelo seu conteúdo interno.
 
-<br>
-
 ## Display Inline-Block
 
 Como o nome já sugere, o inline-block é uma "junção" dos dois anteriores, com algumas particularidades. À primeira vista pode parecer um pouco complexo, mas é exatamente o que o nome sugere. Com Inline-block você tem um comportamento inline, ou seja, por padrão o elemento irá ocupar o espaço demandado pelo seu conteúdo, mas com uma característica herdada do display block, você pode setar o tamanho (largura e altura) que desejar sem restrições.
 
-<br>
-
 Irei usar a mesma estrutura do anterior
 
-Html
+HTML
 
 ```html
 <h1 class="inline-block">Titulo maior 1</h1>
 <h1 class="inline-block">Titulo 2</h1>
 ```
-
-<br>
 
 Aqui estou setando a largura (width) de 250 pixels, a altura (height) de 50 pixels, o display e um background cinza.
 
@@ -136,8 +120,6 @@ Aqui estou setando a largura (width) de 250 pixels, a altura (height) de 50 pixe
   height: 50px;
 }
 ```
-
-<br>
 
 ### Resultado
 
