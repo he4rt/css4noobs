@@ -40,7 +40,7 @@ Por exemplo:
 
 **Borda (Border)** - Como o nome diz, é uma borda que fica ao redor do seu padding. Diferente do padding, ela pode possuir cor e forma.
 
-**Margin** - É a camada mais externa do box model. Ela irá determinar as distâncias para os outros elementos e assim como padding, ela é transparente.
+**Margem (Margin)** - É a camada mais externa do box model. Ela irá determinar as distâncias para os outros elementos e assim como padding, ela é transparente.
 
 ## Atenção ao tamanho final do seu elemento
 

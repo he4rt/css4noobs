@@ -16,7 +16,7 @@ Você pode ler essa mesma linha acima sendo:
 border: [border-width] [border-style] [border-color];
 ```
 
-## border-width
+## Largura da borda (border-width)
 
 Essa propriedade permite que você defina qual a largura será aplicada para a borda, podendo também especificar um tamanho para cada lado.
 
@@ -43,7 +43,7 @@ border-width: 5px;
 
 <img src="../img/border/border-width-10px.jpg"><br>
 
-## border-style
+## Estilo da borda (border-style)
 
 Essa propriedade define qual estilo a sua borda terá, podendo aplicar um estilo único para todo o elemento ou definir até 4 tipos diferentes, sendo um para cada lado do elemento (superior, inferior, esquerda e direita).
 
@@ -76,7 +76,7 @@ border-style: double dotted solid dashed;
 
 <img src="../img/border/border-style-mix.jpg"><br>
 
-## border-color
+## Cor da borda (border-color)
 
 Essa propriedade permite que você defina qual cor será aplicada na borda. Você pode setar as cores como:
 
