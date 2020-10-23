@@ -4,7 +4,7 @@ Seletor simplesmente é você informar quais elementos se aplicam a uma regra (e
 
 ## Seletor com elemento
 
-Para selecionar qualquer elemento pela tag dele, simplesmente coloque tag, exemplo
+Para selecionar qualquer elemento pela tag dele, simplesmente coloque tag, exemplo:
 
 No HTML
 
@@ -63,7 +63,7 @@ No CSS
 ```
 
 <p align="center">
-    Importante dizer que ira pegar todos os elementos com a classe referenciada.
+  Importante dizer que ira pegar todos os elementos com a classe referenciada.
 </p>
 
 ## Seletor com atributo
@@ -132,7 +132,7 @@ A lista de pseudo-classes são as abaixo:
 
 ## Para finalizar
 
-Podemos combinar todos esses seletores, por exemplo podemos pegar todos elementos div com a class vermelho
+Podemos combinar todos esses seletores, por exemplo podemos pegar todos elementos div com a class vermelho:
 
 No HTML
 

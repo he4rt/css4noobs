@@ -45,7 +45,7 @@ border-width: 5px;
 
 ## border-style
 
-Essa propriedade define define qual estilo a sua borda terá, podendo aplicar um estilo único para todo o elemento ou definir até 4 tipos diferentes, sendo um para cada lado do elemento (superior, inferior, esquerda e direita).
+Essa propriedade define qual estilo a sua borda terá, podendo aplicar um estilo único para todo o elemento ou definir até 4 tipos diferentes, sendo um para cada lado do elemento (superior, inferior, esquerda e direita).
 
 Você pode aplicar os seguintes estilos:
 

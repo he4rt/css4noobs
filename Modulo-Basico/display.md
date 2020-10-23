@@ -4,7 +4,7 @@ Nesse modulo iremos aprender umas das propriedades mais importantes do css, o fa
 
 ## Tudo são Boxes
 
-Antes de partimos, você precisa ter outra visão sobre os elementos Html. Toda vez que colocar um elemento qualquer em sua página (seja ele um titulo, um parágrafo, ou qualquer outro) tenha em mente que está colocando uma "caixa", mesmo que não veja a delimitação dessa caixa, o seu elemento se comportará como uma, se precisar de alguma forma visualizar essa delimitação, faça uso de bordas ou backgrounds para entender melhor. Guarde isso, pois precisará para entender os principais tipos de posicionamento especialmente o que vamos aprender agora.
+Antes de partimos, você precisa ter outra visão sobre os elementos HTML. Toda vez que colocar um elemento qualquer em sua página (seja ele um titulo, um parágrafo, ou qualquer outro) tenha em mente que está colocando uma "caixa", mesmo que não veja a delimitação dessa caixa, o seu elemento se comportará como uma, se precisar de alguma forma visualizar essa delimitação, faça uso de bordas ou backgrounds para entender melhor. Guarde isso, pois precisará para entender os principais tipos de posicionamento especialmente o que vamos aprender agora.
 
 ## Display Block
 

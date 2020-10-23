@@ -38,7 +38,7 @@ Ou seja, se a fonte Poppins não for encontrada, irá chamar a Raleway, se não 
 
 ## Estilos
 
-Para aplicar um estlio a uma fonte, usamos `font-style: 'nome do estilo'`, por exemplo
+Para aplicar um estilo a uma fonte, usamos `font-style: 'nome do estilo'`, por exemplo
 
 ```css
 p {
@@ -46,7 +46,7 @@ p {
 }
 ```
 
-Ou seja todas as tags `<p>` da pagina vão está com o estilo da fonte em itálico.
+Ou seja todas as tags `<p>` da página vão está com o estilo da fonte em itálico.
 
 ## Peso
 
@@ -58,7 +58,7 @@ h1 {
 }
 ```
 
-Ou seja todas as tags `<h1>` da pagina vão está com o peso da fonte `bold`.
+Ou seja todas as tags `<h1>` da página vão está com o peso da fonte `bold`.
 
 ## Importar Fontes
 

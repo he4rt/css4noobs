@@ -1,10 +1,10 @@
-# Position - relative, absolute, fixed,sticky, static
+# Position - relative, absolute, fixed, sticky, static
 
 Vamos desvendar e aprender todas as propriedades do position que é muito importante para o posicionamento dos elementos.
 
 ## Position static
 
-Dificilmente ou nunca você vera alguem utilizando o `position: static` pois ele é o valor default de todos os nossos elementos.
+Dificilmente ou nunca você vera alguém utilizando o `position: static` pois ele é o valor default de todos os nossos elementos.
 
 É bom conhecer `static` pois agora você sabe que qualquer elemento tem como padrão `position: static`.
 
@@ -68,7 +68,7 @@ O resultado que temos é:
   <img src="../img/modulo-position-absolute-1-2.gif">
 </p>
 
-O que ocorreu foi que devido o position absolute não criar espaço somente ocupar o conteudo que o elemento tem, a nossa terceira div foi para cima já que não encontrou nenhum espaço e por conta disso ficou abaixo da nossa div com a position absolute, mas conforme você consegue ver no GIF acima a nossa terceira div esta lá.
+O que ocorreu foi que devido o position absolute não criar espaço somente ocupar o conteúdo que o elemento tem, a nossa terceira div foi para cima já que não encontrou nenhum espaço e por conta disso ficou abaixo da nossa div com a position absolute, mas conforme você consegue ver no GIF acima a nossa terceira div esta lá.
 
 Outro comportamento que o position absolute possui é que se você manipular o elemento com `top`,`left`, `right`, `bottom` ele sempre vai estar naquela posição por que não acompanha o fluxo do nosso documento, vamos ver com um exemplo:
 
@@ -100,7 +100,7 @@ Temos o resultado:
 
 Quando usamos `position relative` ele vai deslocar o nosso elemento usando como base o posicionamento que ele tem no fluxo normal do nosso documento, segue um exemplo:
 
-No CSS
+No CSS:
 
 ```css
 .normal {
@@ -118,7 +118,7 @@ No CSS
 }
 ```
 
-No HTML
+No HTML:
 
 ```html
 <div class="normal"></div>
@@ -126,7 +126,7 @@ No HTML
 <div class="normal"></div>
 ```
 
-Esse é o fluxo normal que iria acontencer caso a gente faça as três divs acima:
+Esse é o fluxo normal que iria acontecer caso a gente faça as três divs acima:
 
 <p align="center">
   <img src="../img/modulo-position-absolute-1.png">
@@ -144,7 +144,7 @@ Quando usamos a propriedade `position relative` e manipulamos o `top`,`left`, `r
 
 Agora vamos manipular a posição do elemento
 
-Adicione ao seu CSS
+Adicione ao seu CSS:
 
 ```css
 .absolute {
@@ -156,7 +156,7 @@ Adicione ao seu CSS
 }
 ```
 
-Temos o resultado
+Temos o resultado:
 
 <p align="center">
   <img src="../img/modulo-1-position-relative-1-2.png">
@@ -166,7 +166,7 @@ Temos o resultado
 
 Utilizamos ele para deixar o elemento fixo no nosso documento ou seja independente do que aconteça nunca vai mudar de posição, vamos demonstrar com um exemplo:
 
-No HTML
+No HTML:
 
 ```html
 <h1>Está fixado</h1>
@@ -178,7 +178,7 @@ No HTML
 <div></div>
 ```
 
-No CSS
+No CSS:
 
 ```css
 div {
@@ -198,7 +198,7 @@ h1 {
 }
 ```
 
-Resultado
+Resultado:
 
 <p align="center">
   <img src="../img/modulo-1-position-fixed-1.gif">
@@ -210,7 +210,7 @@ Resultado
 
 Vamos ver um exemplo pratico:
 
-No HTML
+No HTML:
 
 ```html
 <h1>Posicionamento sticky</h1>
@@ -247,7 +247,7 @@ No HTML
 </dl>
 ```
 
-No CSS
+No CSS:
 
 ```css
 dl {
@@ -265,7 +265,7 @@ dt {
 }
 ```
 
-Resultado
+Resultado:
 
 <p align="center">
   <img src="../img/modulo-1-position-sticky-1.gif">
@@ -273,4 +273,4 @@ Resultado
 
 ## Concluindo
 
-Conhecer bem essa propriedade é essencial para definir o posicionamento de icones, botões, imagens, etc..., espero que pratiquem bastante! pois, muito do que vimos aqui é só uma pontinha do que podemos fazer com elas.
+Conhecer bem essa propriedade é essencial para definir o posicionamento de ícones, botões, imagens, etc..., espero que pratiquem bastante! pois, muito do que vimos aqui é só uma pontinha do que podemos fazer com elas.
