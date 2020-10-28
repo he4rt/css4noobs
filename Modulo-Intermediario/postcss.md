@@ -39,7 +39,9 @@ Dessa forma, não precisamos nos preocupar(pelo menos de forma geral) com a comp
 
 ### PostCSS-Utilities
 
-O [postcss-utilities](https://github.com/ismamz/postcss-utilities) adiciona o `@util`, que tráz simplificação de código CSS, facilitando a sua utilização. Exemplo:
+O [postcss-utilities](https://github.com/ismamz/postcss-utilities) adiciona o `@util`, que tráz simplificação de código CSS, facilitando a sua utilização.
+
+Exemplo:
 
 ```css
 .borda-topo {
