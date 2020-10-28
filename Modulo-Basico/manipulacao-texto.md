@@ -34,11 +34,11 @@ p {
 }
 ```
 
-Ou seja, se a fonte Poppins não for encontrada, irá chamar a Raleway, se não achar a Raleway, irá chamar a Muli, e se não achar a Muli, irá carregar uma fonte padrão.
+Ou seja, se a fonte Poppins não for encontrada, irá chamar a Raleway, se não achar a Raleway, irá chamar a Muli, e se não achar a Muli, irá carregar uma fonte padrão do navegador.
 
 ## Estilos
 
-Para aplicar um estlio a uma fonte, usamos `font-style: 'nome do estilo'`, por exemplo
+Para aplicar um estilo a uma fonte, usamos `font-style: 'nome do estilo'`, por exemplo
 
 ```css
 p {
@@ -46,7 +46,7 @@ p {
 }
 ```
 
-Ou seja todas as tags `<p>` da pagina vão está com o estilo da fonte em itálico.
+Ou seja todas as tags `<p>` da página vão está com o estilo da fonte em itálico.
 
 ## Peso
 
@@ -58,7 +58,7 @@ h1 {
 }
 ```
 
-Ou seja todas as tags `<h1>` da pagina vão está com o peso da fonte `bold`.
+Ou seja todas as tags `<h1>` da página vão está com o peso da fonte `bold`.
 
 ## Importar Fontes
 
@@ -95,7 +95,7 @@ p {
 
 # Links
 
-Para conseguirmos navegar por link's, podemos usar o `<a></a>` usando `href`:
+Para conseguirmos navegar por link's, podemos usar a tag `<a>` usando `href`:
 
 `<a href="https://github.com/mathh95/css4noobs">Ir para o CSS4Noobs</a>`
 

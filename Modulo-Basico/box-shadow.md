@@ -1,6 +1,6 @@
 # Box Shadow
 
-A propriedade box-shadow é utilizado para adicionar efeitos de sombra em volta de um elemento. Você pode especificar mais de um efeito, os separando com virgulas. Uma box-shadow é descrita pelo deslocamentos (offset) X e Y em relação ao elemento, desfoco e propagação do raio e cor.
+A propriedade box-shadow é utilizado para adicionar efeitos de sombra em volta de um elemento. Você pode especificar mais de um efeito, separando-os com vírgulas. Uma box-shadow é descrita pelo deslocamentos (offset) X e Y em relação ao elemento, desfoco, propagação do raio e cor.
 
 _Sintaxe_
 
@@ -16,7 +16,7 @@ Onde:
 
 - O segundo valor `2px` equivale ao eixo y da pagina `offset-y`.
 
-- O terceito valor `2px` equivale é o blur que a sombra vai ter `blur-radius`.
+- O terceiro valor `2px` equivale ao blur, que a sombra vai ter `blur-radius`.
 
 - E o ultimo atributo `rgba(0, 0, 0, 0.2)` é a cor que essa sombra vai receber `color`.
 

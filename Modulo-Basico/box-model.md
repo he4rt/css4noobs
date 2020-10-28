@@ -28,7 +28,7 @@ Como dito acima, o box model é composto por margem, padding, borda e conteúdo.
 
 **Conteúdo** - Como o nome diz, é o conteúdo desse box. Pode ser texto, imagem, link. É onde o seu conteúdo final irá aparecer.
 
-Por exemplo
+Por exemplo:
 
 ```html
 <div>
@@ -38,9 +38,9 @@ Por exemplo
 
 **Padding** - É uma área transparente que fica além do seu conteúdo. Na imagem acima, ela é representada pela cor roxa.
 
-**Borda(Border)** - Como o nome diz, é uma borda que fica ao redor do seu padding. Diferente do padding, ela pode possuir cor e forma.
+**Borda (Border)** - Como o nome diz, é uma borda que fica ao redor do seu padding. Diferente do padding, ela pode possuir cor e forma.
 
-**Margin** - É a camada mais externa do box model. Ela irá determinar as distâncias para os outros elementos e assim como padding, ela é transparente.
+**Margem (Margin)** - É a camada mais externa do box model. Ela irá determinar as distâncias para os outros elementos e assim como padding, ela é transparente.
 
 ## Atenção ao tamanho final do seu elemento
 

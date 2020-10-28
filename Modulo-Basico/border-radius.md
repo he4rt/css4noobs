@@ -2,7 +2,7 @@
 
 A propriedade `border-radius` permite adicionar bordas arredondadas no seu elemento.
 
-O valores usandos para definir as bordas podem ser em `px` ou `%`, mas exemplos abaixo tera somente valores em px.
+O valores usados para definir as bordas podem ser em `px` ou `%`, mas exemplos abaixo terá somente valores em px.
 
 Essa propriedade pode ter de um a quatro valores. Aqui estão as regras:
 
