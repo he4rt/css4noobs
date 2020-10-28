@@ -39,7 +39,7 @@
 3. [Box Shadow](/Modulo-Basico/box-shadow.md)
 4. [Background](/Modulo-Basico/background.md)
 5. [Border](/Modulo-Basico/border.md)
-6. [Border Radius](/Modulo-Basico/border.md)
+6. [Border Radius](/Modulo-Basico/border-radius.md)
 7. [Manipulação de Texto (color, font, links, text)](/Modulo-Basico/manipulacao-texto.md)
 8. [Display](/Modulo-Basico/display.md)
 9. [Position](/Modulo-Basico/position.md)
