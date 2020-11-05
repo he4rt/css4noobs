@@ -1,6 +1,6 @@
 # Pseudo-Classes
 
-Pseudo-classes são referências utilizadas através de sufixos nos seletores que são utilizadas para definir um estado especial de um elemento.
+Pseudo-classes são referências utilizadas através de sufixos nos seletores, para definir um estado especial de um elemento. Este recurso é muito importante para aplicar estilo para situações específicas de maneira performática, evitando seletores extensos em cascata ou aplicação lógica através do Javascript para manipulação dinâmica.
 
 Já vimos algumas pseudo-classes nas seções anteriores como o :hover, sua sintaxe base seria:
 
@@ -12,7 +12,7 @@ seletor:pseudo-classe {
 
 Existem múltiplas pseudo-classes, cada uma com aplicação específica para alterar o estilo da página em situações e eventos de fluxo diferentes.
 
-Lista de pseudo-classes de acordo com a MDN:
+Lista de pseudo-classes de acordo com a MDN complementada por uma pequena descrição utilizada como referência:
 
 | Valor | Descrição |
 | --- | --- |
@@ -32,28 +32,28 @@ Lista de pseudo-classes de acordo com a MDN:
 | ```:indeterminate``` | Quando está indeterminado (funciona com formulários) |
 | ```:in-range``` | Aplicado aos elementos ```<input>``` os quais o **valor atual** está compreendido no intervalo dos atributos **min** e **max** do mesmo |
 | ```:invalid``` | Aplicado à **elementos inválidos** de um *formulário* |
-| ```:lang()``` | Elementos por linguagem |
+| ```:lang()``` | Elementos por língua |
 | ```:last-child``` | Último filho |
-| ```:last-of-type``` | Último por tipo |
+| ```:last-of-type``` | Último por tipo/grupo de elementos |
 | ```:left``` | Utilizado a esquerda em conjunto com o ```@page``` |
 | ```:link``` | Quando o elemento é um link |
 | ```:not()``` | Quando não tem o requisito do parâmetro |
 | ```:nth-child()``` | Elementos baseado em posição, exemplo: ```:nth-child(1n)``` |
 | ```:nth-last-child()``` | Elemento baseado no último filho |
-| ```:nth-last-of-type()``` | Elemento baseado no último tipo |
-| ```:nth-of-type()``` | Elemento por tipo |
+| ```:nth-last-of-type()``` | Elemento baseado no último tipo/grupo de elementos |
+| ```:nth-of-type()``` | Elemento por tipo/grupo de elementos |
 | ```:only-child``` | Elementos que são necessariamente filhos |
-| ```:only-of-type``` | Elementos que são especificados no tipo |
-| ```:optional``` | Elementos que são opcionais |
-| ```:out-of-range``` | Fora do range do ```input``` |
+| ```:only-of-type``` | Elementos que são especificados no tipo/grupo de elementos |
+| ```:optional``` | Elementos de um formulário que são opcionais |
+| ```:out-of-range``` | Aplicado aos elementos ```<input>``` os quais o **valor atual não está compreendido** no intervalo dos atributos **min** e **max** do mesmo |
 | ```:read-only``` | Relacionado ao ```input``` e ```textarea```, quando não está editável |
 | ```:read-write``` | Relacionado ao ```input``` e ```textarea```, quando está editável |
-| ```:required``` | Elemento requirido |
+| ```:required``` | Elemento de um formulário requirido |
 | ```:right``` | Direita relacionado ao ```@page``` |
 | ```:root``` | Elemento base ```<html>``` |
 | ```:scope``` | Elemento que está no escopo |
-| ```:target``` | Elemento escolhido |
-| ```:valid``` | Elemento válido |
+| ```:target``` | Elemento selecionado através de um identificador único compreendido na URL |
+| ```:valid``` | Elemento de um formulário válido |
 | ```:visited``` | Link que já foi visitado |
 
 Relaxa, não precisa decorar todos os pseudo-elementos, mas é bom ter a noção dos elementos existentes para facilitar sua vida futuramente.
