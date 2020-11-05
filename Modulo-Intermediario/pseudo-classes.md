@@ -1,5 +1,7 @@
 # Pseudo-Classes
 
+Pseudo-classes são referências utilizadas através de sufixos nos seletores que são utilizadas para definir um estado especial de um elemento.
+
 Já vimos algumas pseudo-classes nas seções anteriores como o :hover, sua sintaxe base seria:
 
 ```css
@@ -8,15 +10,15 @@ seletor:pseudo-classe {
 }
 ```
 
-Existem varios tipos de pseudo-classes, cada um com efeito específico para facilitar a vida do desenvolvedor
+Existem múltiplas pseudo-classes, cada uma com aplicação específica para alterar o estilo da página em situações e eventos de fluxo diferentes.
 
 Lista de pseudo-classes de acordo com a MDN:
 
 | Valor | Descrição |
 | --- | --- |
-| ```:active``` | Parecido com hover, link e visited |
+| ```:active``` | Utilizada em links e botões, define se um elemento alvo está ativo pela navegação do usuário |
 | ```:checked``` | Quando um elemento de formulário (```radio```, ```checkbox``` e ```option```) estão ativos |
-| ```:default``` | Elemento padrão |
+| ```:default``` | Elemento(s) padrão(ões) de um formulário |
 | ```:dir()``` | Relacionado a direção do conteúdo |
 | ```:disabled``` | Quando está desabilitado |
 | ```:empty``` | Quando está vazio |
@@ -26,10 +28,10 @@ Lista de pseudo-classes de acordo com a MDN:
 | ```:first-of-type``` | Primeiro elemento pelo tipo |
 | ```:fullscreen``` | Elementos atuais em tela cheia |
 | ```:focus``` | Aplicado quando o elemento recebe foco |
-| ```:hover``` | Quando está com o mouse em cima (funciona bem mal no mobile) |
+| ```:hover``` | Quando está com o mouse em cima |
 | ```:indeterminate``` | Quando está indeterminado (funciona com formulários) |
-| ```:in-range``` | Relacionado ao atributo min/max do ```<input>``` |
-| ```:invalid``` | Quando o elemento é inválido |
+| ```:in-range``` | Aplicado aos elementos ```<input>``` os quais o **valor atual** está compreendido no intervalo dos atributos **min** e **max** do mesmo |
+| ```:invalid``` | Aplicado à **elementos inválidos** de um *formulário* |
 | ```:lang()``` | Elementos por linguagem |
 | ```:last-child``` | Último filho |
 | ```:last-of-type``` | Último por tipo |
