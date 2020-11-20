@@ -26,7 +26,7 @@
 4. [What is CSS](/Introducao/o-que-e-css.md)
 5. [How CSS works](/Introducao/como-o-css-funciona.md)
 6. [What are its advantages](/Introducao/quais-suas-vantagens.md)
-7. [Adding CSS into our HTML](/Introducao/adicionando-css-no-html.md)
+7. [Adding CSS into our HTML](intro/adding-css-into-html.md)
 
 ### Environment configuration
 
