@@ -8,7 +8,7 @@
 
 <h1 align="center"><img src="./img/logo-css.png" alt="php" width="120"></h1>
 
-<p align="center">CSS básico para iniciantes.</p>
+<p align="center">Basic CSS for beginners.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -18,62 +18,62 @@
 
 ## ROADMAP
 
-### Introdução
+### Intro
 
-1. [Boas Vindas](/Introducao/boas-vindas.md)
-2. [Comunicação](/Introducao/comunicacao.md)
-3. [O que você precisa saber](/Introducao/o-que-voce-precisa-saber.md)
-4. [O que é CSS](/Introducao/o-que-e-css.md)
-5. [Como o CSS funciona](/Introducao/como-o-css-funciona.md)
-6. [Quais as suas vantagens](/Introducao/quais-suas-vantagens.md)
-7. [Adicionando CSS no nosso HTML](/Introducao/adicionando-css-no-html.md)
+1. [Welcome](/Introducao/boas-vindas.md)
+2. [Communication](/Introducao/comunicacao.md)
+3. [What do you nedd to know](/Introducao/o-que-voce-precisa-saber.md)
+4. [What is CSS](/Introducao/o-que-e-css.md)
+5. [How CSS works](/Introducao/como-o-css-funciona.md)
+6. [What are its advantages](/Introducao/quais-suas-vantagens.md)
+7. [Adding CSS into our HTML](/Introducao/adicionando-css-no-html.md)
 
-### Configuração de Ambiente
+### Environment configuration
 
-1. [Ambiente e Aplicação](/Ambiente/plugins.md)
+1. [Environment and Application](/Ambiente/plugins.md)
 
-### Módulo Básico
+### Basic module
 
-1. [Seletores](/Modulo-Basico/seletores.md)
+1. [Selectors](/Modulo-Basico/seletores.md)
 2. [Box Model](/Modulo-Basico/box-model.md)
 3. [Box Shadow](/Modulo-Basico/box-shadow.md)
 4. [Background](/Modulo-Basico/background.md)
 5. [Border](/Modulo-Basico/border.md)
 6. [Border Radius](/Modulo-Basico/border-radius.md)
-7. [Manipulação de Texto (color, font, links, text)](/Modulo-Basico/manipulacao-texto.md)
+7. [Text manipultion (color, font, links, text)](/Modulo-Basico/manipulacao-texto.md)
 8. [Display](/Modulo-Basico/display.md)
 9. [Position](/Modulo-Basico/position.md)
 10. [Z-index](/Modulo-Basico/z-index.md)
 11. [Units](/Modulo-Basico/units.md)
 12. [Transition](/Modulo-Basico/transition.md)
 
-### Módulo Intermediário
+### Middle module 
 
 1. [Pseudo-classes](/Modulo-Intermediario/pseudo-classes.md)
-2. [Pseudo-seletores](/Modulo-Intermediario/pseudo-seletores.md)
+2. [Pseudo-selectors](/Modulo-Intermediario/pseudo-seletores.md)
 3. [Flexbox](/Modulo-Intermediario/flexbox.md)
 4. [CSS Grid](/Modulo-Intermediario/css-grid.md)
-5. [Variáveis CSS](/Modulo-Intermediario/variables.md)
+5. [Variables CSS](/Modulo-Intermediario/variables.md)
 6. [PostCSS](/Modulo-Intermediario/postcss.md)
 
-#### Referências
+#### References
 
 - [https://cdn.rawgit.com/hostinger/banners/94941d64/tutorials/pdf/CSS-3-Cheatsheet.pdf](https://cdn.rawgit.com/hostinger/banners/94941d64/tutorials/pdf/CSS-3-Cheatsheet.pdf)
 - [https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/](https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/)
 - [https://www.w3schools.com/css/default.asp](https://www.w3schools.com/css/default.asp)
 
-## Como Contribuir
+## How to contribute 
 
-Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições
-são **extremamente apreciadas**
+Contributions make open source community a wonderful place to learn, inspire and create. All contributions are **extremely appreciated**
 
-1. Realize um Fork do projeto
-2. Crie um branch com a nova feature (`git checkout -b feature/feature-css`)
-3. Realize o Commit (`git commit -m 'Add some feature-css'`)
-4. Realize o Push no Branch (`git push origin feature/feature-css`)
-5. Abra um Pull Request
+1. Make a fork
+2. Create a branch with a new feature ('git checkout -b feature/feature-css')
+3. Make a commit (`git commit -m 'Add some feature-css'`)
+4. Push your changes (`git push origin feature/feature-css`)
+5. Open a pull request
 
-## Autores
+
+## Authors 
 
 - **Matheus Henrique (math95)** - _Developer & Member of He4rt Developers_ - [Twitter](https://twitter.com/math__95)
 
