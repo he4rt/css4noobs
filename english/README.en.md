@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="./img/id-4noobs/header-4noobs.svg">
+    <img src="./../img/id-4noobs/header-4noobs.svg">
   </a>
 </p>
 
 # css4noobs
 
-<h1 align="center"><img src="./img/logo-css.png" alt="php" width="120"></h1>
+<h1 align="center"><img src="./../img/logo-css.png" alt="php" width="120"></h1>
 
 <p align="center">Basic CSS for beginners.</p>
 
@@ -87,6 +87,6 @@ Contributions make open source community a wonderful place to learn, inspire and
 
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="./img/id-4noobs/footer-4noobs.svg" width="380">
+    <img src="./../img/id-4noobs/footer-4noobs.svg" width="380">
   </a>
 </p>
