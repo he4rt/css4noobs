@@ -22,7 +22,7 @@
 
 1. [Welcome](/Introducao/boas-vindas.md)
 2. [Communication](/Introducao/comunicacao.md)
-3. [What do you nedd to know](/Introducao/o-que-voce-precisa-saber.md)
+3. [What do you nedd to know](intro/what-do-u-need-to-know.md)
 4. [What is CSS](/Introducao/o-que-e-css.md)
 5. [How CSS works](/Introducao/como-o-css-funciona.md)
 6. [What are its advantages](intro/what-are-its-advantages.md)
