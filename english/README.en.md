@@ -20,11 +20,11 @@
 
 ### Intro
 
-1. [Welcome](/Introducao/boas-vindas.md)
-2. [Communication](/Introducao/comunicacao.md)
+1. [Welcome](intro/welcome.md)
+2. [Communication](intro/communication.md)
 3. [What do you nedd to know](intro/what-do-u-need-to-know.md)
-4. [What is CSS](/Introducao/o-que-e-css.md)
-5. [How CSS works](/Introducao/como-o-css-funciona.md)
+4. [What is CSS](intro/what-is-css.md)
+5. [How CSS works](intro/how-css-works.md)
 6. [What are its advantages](intro/what-are-its-advantages.md)
 7. [Adding CSS into our HTML](intro/adding-css-into-html.md)
 
