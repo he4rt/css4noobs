@@ -30,7 +30,7 @@
 
 ### Environment configuration
 
-1. [Environment and Application](/Ambiente/plugins.md)
+1. [Environment and Application](environment/plugins.md)
 
 ### Basic module
 
