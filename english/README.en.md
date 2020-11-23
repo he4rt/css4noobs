@@ -16,6 +16,8 @@
   </a>
 </p>
 
+#### Trocar para português: <kbd>[<img title="Portuguese" alt="Portuguese" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](../README.md)</kbd>
+
 ## ROADMAP
 
 ### Intro
@@ -32,29 +34,30 @@
 
 1. [Environment and Application](environment/plugins.md)
 
-### Basic module
+### Basic module (It was not translated yet)
 
-1. [Selectors](/Modulo-Basico/seletores.md)
-2. [Box Model](/Modulo-Basico/box-model.md)
-3. [Box Shadow](/Modulo-Basico/box-shadow.md)
-4. [Background](/Modulo-Basico/background.md)
-5. [Border](/Modulo-Basico/border.md)
-6. [Border Radius](/Modulo-Basico/border-radius.md)
-7. [Text manipultion (color, font, links, text)](/Modulo-Basico/manipulacao-texto.md)
-8. [Display](/Modulo-Basico/display.md)
-9. [Position](/Modulo-Basico/position.md)
-10. [Z-index](/Modulo-Basico/z-index.md)
-11. [Units](/Modulo-Basico/units.md)
-12. [Transition](/Modulo-Basico/transition.md)
+1. [Selectors](basic-module/selectors.md)
+2. [Box Model](basic-module/box-model.md)
+3. [Box Shadow](basic-module/box-shadow.md)
+4. [Background](basic-module/background.md)
+5. [Border](basic-module/border.md)
+6. [Border Radius](basic-module/border-radius.md)
+7. [Text manipultion (color, font, links, text)](basic-module/manipulacao-texto.md)
+8. [Display](basic-module/display.md)
+9. [Position](basic-module/position.md)
+10. [Z-index](basic-module/z-index.md)
+11. [Units](basic-module/units.md)
+12. [Transition](basic-module/transition.md)
 
-### Middle module 
+### Middle module (It was not translated yet)
 
-1. [Pseudo-classes](/Modulo-Intermediario/pseudo-classes.md)
-2. [Pseudo-selectors](/Modulo-Intermediario/pseudo-seletores.md)
-3. [Flexbox](/Modulo-Intermediario/flexbox.md)
-4. [CSS Grid](/Modulo-Intermediario/css-grid.md)
-5. [Variables CSS](/Modulo-Intermediario/variables.md)
-6. [PostCSS](/Modulo-Intermediario/postcss.md)
+
+1. [Pseudo-classes](middle-module/pseudo-classes.md)
+2. [Pseudo-selectors](middle-module/pseudo-seletores.md)
+3. [Flexbox](middle-module/flexbox.md)
+4. [CSS Grid](middle-module/css-grid.md)
+5. [Variables CSS](middle-module/variables.md)
+6. [PostCSS](middle-module/postcss.md)
 
 #### References
 

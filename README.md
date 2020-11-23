@@ -16,6 +16,9 @@
   </a>
 </p>
 
+
+#### Switch to english: <kbd>[<img title="English" alt="English" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/us.svg" width="22">](english/README.en.md)</kbd>
+
 ## ROADMAP
 
 ### Introdução
