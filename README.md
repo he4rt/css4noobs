@@ -37,7 +37,7 @@
 
 ### Módulo Básico
 
-1. [Seletores](/Modulo-Basico/seletores.md)
+1. [Seletores](/Modulo-Basico/selectors.md)
 2. [Box Model](/Modulo-Basico/box-model.md)
 3. [Box Shadow](/Modulo-Basico/box-shadow.md)
 4. [Background](/Modulo-Basico/background.md)
