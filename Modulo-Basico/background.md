@@ -71,7 +71,7 @@ Os valores podem ter quatro padrões:
 
 ## Background Attachment (background-attachment)
 
-Com o `background-attachment` você pode definir se a imagem ficará fixada ou se ela irá se mover de acordo com o scrool.
+Com o `background-attachment` você pode definir se a imagem ficará fixada ou se ela irá se mover de acordo com o scroll.
 
 _Sintaxe:_
 
@@ -90,7 +90,7 @@ Onde:
 Os valores podem ter dois padrões:
 
 - fixed: você pode definir que a imagem fique fixada. Ex: `background-attachment: fixed`
-- scrool: você pode definir que a imagem se mova com o scrool. Ex: `background-attachment: scroll;`
+- scroll: você pode definir que a imagem se mova com o scroll. Ex: `background-attachment: scroll;`
 
 ## Background Position (background-position)
 
