@@ -20,13 +20,11 @@
 
 ### Introdução
 
-1. [Boas Vindas](/Introducao/boas-vindas.md)
-2. [Comunicação](/Introducao/comunicacao.md)
-3. [O que você precisa saber](/Introducao/o-que-voce-precisa-saber.md)
-4. [O que é CSS](/Introducao/o-que-e-css.md)
-5. [Como o CSS funciona](/Introducao/como-o-css-funciona.md)
-6. [Quais as suas vantagens](/Introducao/quais-suas-vantagens.md)
-7. [Adicionando CSS no nosso HTML](/Introducao/adicionando-css-no-html.md)
+1. [Boas Vindas](/Introducao/1-boas-vindas.md)
+2. [Como Contribuir](/Introducao/2-como-contribuir.md)
+3. [O que é CSS?](/Introducao/3-o-que-e-css.md)
+4. [Como o CSS funciona?](/Introducao/4-como-o-css-funciona.md)
+5. [Adicionando CSS no HTML](/Introducao/5-adicionando-css-no-html.md)
 
 ### Configuração de Ambiente
 
