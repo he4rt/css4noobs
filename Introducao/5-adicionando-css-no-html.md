@@ -78,7 +78,7 @@ Pensando no exemplo acima, o carregamento do arquivo CSS `main.css` usando a tag
 
 Em que:
 - __rel__ - Esse atributo sinaliza ao navegador que o recurso a ser baixado é uma folha de estilo. Isso faz com que ele seja identificado com o tipo `text/css` e seja baixado com alta prioridade.
-- __href__ - Um atributo de <span lang="en-US">__hyperlink reference__</span>. Ele recebe o link para a folha de estilo, podendo esse se referir à um arquivo local (ex: `./style.css`) ou um arquivo remoto.
+- __href__ - Um atributo de <span lang="en-US">__hyperlink reference__</span>. Ele recebe o link para a folha de estilo, podendo se referir à um arquivo local (ex: `./style.css`) ou um arquivo remoto.
 
 <br/>
 
