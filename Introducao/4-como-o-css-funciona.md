@@ -59,9 +59,9 @@ a {
 
 ## Mas o que representam essas marcações?
 
-- __seletor__: Elemento ou atributo do HTML que será estilizado (por exemplo, uma div, um parágrafo, uma section). Para saber mais sobre os seletores, acesse [a nossa documentação sobre seletores &boxbox;](../Modulo-Basico/seletores.md).
+- __seletor__: Elemento ou atributo do HTML que será estilizado, por exemplo, uma div, um parágrafo, uma section. Para saber mais sobre os seletores, acesse [a nossa documentação sobre seletores &boxbox;](../Modulo-Basico/seletores.md).
 
-- __propriedade__: A característica a ser alterada - como, por exemplo, cor do texto, cor de fundo do elemento, seu tamanho e espaçamento.
+- __propriedade__: A característica a ser alterada, como, por exemplo, cor do texto, cor de fundo do elemento, seu tamanho e espaçamento.
 
 - __valor__: As opções de customização dessa característica, como, por exemplo, definir uma cor `red` pra propriedade `color`.
 
