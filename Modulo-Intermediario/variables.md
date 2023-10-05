@@ -84,9 +84,9 @@ E usamos a classe da seguinte forma:
 
 &nbsp;
 
-**Fazer mudanças via Media Query**
+**Fazer mudanças via media query**
 
-Uma coisa muito comum é usar Media Queries pra mudar o layout do site pra um formato de coluna quando a visualização for de telefone celular (mobile). Uma forma legal de controlar esse fluxo de fileira pra é usando flexbox.
+Uma coisa muito comum é usar media queries pra mudar o layout do site pra um formato de coluna quando a visualização for de telefone celular (mobile). Uma forma legal de controlar esse fluxo de fileira pra é usando flexbox.
 
 ```css
 .main-section {
