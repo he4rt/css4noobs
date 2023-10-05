@@ -1,6 +1,6 @@
 # Como o CSS funciona?  
 
-No CSS referenciamos as tags ou atributos HTML através de **seletores** e usando **propriedades** e **valores** conseguimos alterar a aparência e usabilidade de um site. Um bloco de CSS pode conter uma ou mais **declarações** que alteram uma característica específica, como o `background-color` define qual a cor do plano de fundo do elemento HTML referenciado pelo seletor.
+No CSS referenciamos as tags ou atributos HTML através de **seletores** e usando **propriedades** e **valores** conseguimos alterar a aparência e usabilidade de um site. Um bloco de CSS pode conter uma ou mais **declarações** que alteram uma característica específica, como o background-color, que define qual a cor do plano de fundo do elemento HTML referenciado pelo seletor.
 
 <br />
 
