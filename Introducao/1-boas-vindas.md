@@ -3,7 +3,7 @@
 **Boas vindas ao tutorial de CSS da He4rt Developers!**
 
 Ficamos muito felizes de você ter chegado até aqui no nosso curso! Estaremos trabalhando nos próximos passos
-para que você saia desse curso entendendo um básico para começar a utilizar CSS em suas aplicações Web.
+para que você saia desse curso entendendo o básico para começar a utilizar CSS em suas aplicações Web.
 
 O HTML foi inicialmente criado pra compartilhamento de conteúdo científico, mas a gama de possibilidades que a web oferecia foi aos poucos transformando essa perspectiva. A tes, pra se alterar a apresentação dos elementos HTML se utilizavam atributos e tags de estilo como `<font>`, fazendo com que o trabalho de estilização fosse repetitivo e seu processamento fosse muito lento. 
 
