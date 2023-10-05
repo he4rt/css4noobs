@@ -144,7 +144,7 @@ Os valores da propriedade de posição de background, podem ser feitas de vária
 
 ## Sintaxe Curta (Shorthand Syntax)
 
-Ultilizando a tag `background` podemos escrever todas as propriedades de background dentro de uma só. O valor de `background-image` irá ficar uma camada acima do `background-color`, caso a imagem não seja carregada, a cor aparecerá como reserva. Os valores são separados por espaços, mas o estilo recomendado é colocar apenas um valor por linha, colocando o ';' na ultima linha.
+Utilizando a tag `background`, podemos escrever todas as propriedades de background dentro de uma só. O valor de `background-image` irá ficar uma camada acima do `background-color`, caso a imagem não seja carregada, a cor aparecerá como reserva. Os valores são separados por espaços, mas o estilo recomendado é colocar apenas um valor por linha, colocando o ';' na ultima linha.
 
 _Sintaxe_
 
