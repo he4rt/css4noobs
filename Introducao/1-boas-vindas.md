@@ -5,7 +5,7 @@
 Ficamos muito felizes de você ter chegado até aqui no nosso curso! Estaremos trabalhando nos próximos passos
 para que você saia desse curso entendendo o básico para começar a utilizar CSS em suas aplicações Web.
 
-O HTML foi inicialmente criado pra compartilhamento de conteúdo científico, mas a gama de possibilidades que a web oferecia foi aos poucos transformando essa perspectiva. A tes, pra se alterar a apresentação dos elementos HTML se utilizavam atributos e tags de estilo como `<font>`, fazendo com que o trabalho de estilização fosse repetitivo e seu processamento fosse muito lento. 
+O HTML foi inicialmente criado pra compartilhamento de conteúdo científico, mas a gama de possibilidades que a web oferecia foi aos poucos transformando essa perspectiva. Antes, pra se alterar a apresentação dos elementos HTML se utilizavam atributos e tags de estilo como `<font>`, fazendo com que o trabalho de estilização fosse repetitivo e seu processamento fosse muito lento. 
 
 Criado em 1994  por [Håkon Wium Lie](https://pt.wikipedia.org/wiki/H%C3%A5kon_Wium_Lie) e [Bert Bos](https://en.wikipedia.org/wiki/Bert_Bos), O CSS expandiu as possibilidades do que se pretendia com a Web, permitindo com que as pessoas autoras alcançassem uma incrível qualidade de conteúdo, mas que conseguissem também sobrepor com sua marca ou expressão artística. Hoje o CSS é um dos pilares do desenvolvimento, pois toda a experiência de usuário - mesmo as que não usam a internet visualmente - são afetadas pelas definições criadas nas folhas de estilo.
 
