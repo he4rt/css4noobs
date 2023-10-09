@@ -104,7 +104,7 @@ O atributo _style_, também conhecido como style inline é usado diretamente em 
 </html>
 ```
 
-O estilo inline não é muito recomendado por ter uma especificidade muito alta e difícil replicabilidade - você precisa escrever diretamente em todas as tags que vai estilizar, tornando-o difícil de manter.
+O estilo inline não é muito recomendado por ter uma especificidade muito alta e difícil replicabilidade e manutenção - você precisa escrever diretamente em todas as tags que vai estilizar, tornando-o difícil de manter.
 
 Um jeito seguro de usar estilos inline é passando [variáveis CSS](../Modulo-Intermediario/variables.md).
 
