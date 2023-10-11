@@ -57,3 +57,11 @@ Lista de pseudo-classes de acordo com a MDN complementada por uma pequena descri
 | ```:visited``` | Link que já foi visitado |
 
 Relaxa, não precisa decorar todos os pseudo-elementos, mas é bom ter a noção dos elementos existentes para facilitar sua vida futuramente.
+
+<br />
+
+<div align="center">
+
+**Próxima página &rarr; [Pseudo-seletores](./3-pseudo-seletores.md)**
+
+</div>

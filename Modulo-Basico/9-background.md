@@ -212,3 +212,10 @@ Existem 3 valores possíveis
 
 - cores: nominais, hexadecimais ou funções de cor (rgb e hsl).
 - url: arquivos locais ou hospedados.
+<br />
+
+<div align="center">
+
+**Próxima página &rarr; [Border](./10-border.md)**
+
+</div>

@@ -130,3 +130,11 @@ border-right-width: 10px;
 ```
 
 <img src="../img/border/border-separadas.jpg"/><br>
+
+<br />
+
+<div align="center">
+
+**Próxima página &rarr; [Border-radius](./11-border-radius.md)**
+
+</div>

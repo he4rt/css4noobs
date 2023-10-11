@@ -292,3 +292,11 @@ input[type="color"] {
 1. <a name="tangivel"></a>  **Tangível** é uma categoria de conteúdo do HTML. A categoria de **tangível** ou _palpable content_ é a de elementos que **não são vazios, nem ocultos (hidden), e que seu conteúdo é renderizado e substancial**. Elementos como `<head>` ou `<meta>`, por exemplo, não fazem parte dessa categoria. [Documentação oficial, em inglês](https://developer.mozilla.org/en-US/docs/Web/HTML/Content_categories#palpable_content).
 
 2. <a name="agent"></a>  **<i>User-agent stylesheet</i>** se refere à folha de estilo do navegador. Cada navegador aplica uma folha de estilo padrão dando uma aparência base nos elementos HTML. O `<button>`, por exemplo, vem com uma borda preta e uma cor de fundo cinza mesmo se você não definir nenhum CSS pra ele. Os resets de CSS servem pra remover esses estilos. Recomendo a leitura [desse artigo do Ricardo Gouveia no Medium pra entender mais sobre](https://medium.com/trainingcenter/user-agent-style-sheet-o-porqu%C3%AA-de-um-css-que-s%C3%B3-serve-para-ser-sobrescrito-f1ef84c9ebf7). Caso queira ver o CSS das folhas de estilo dos navegadores, [esse artigo do Jens Oliver Meiert (em inglês)](https://meiert.com/en/blog/user-agent-style-sheets/) tem links pra algumas delas.
+
+<br />
+
+<div align="center">
+
+**Próxima página &rarr; [Pseudo-classes](./2-pseudo-classes.md)**
+
+</div>

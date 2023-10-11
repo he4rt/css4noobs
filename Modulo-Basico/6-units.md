@@ -40,3 +40,11 @@ Caso você tenha dúvidas de qual unidade usar, recomendo seguir o que [este art
 ## Referências
 
 [https://www.w3schools.com/cssref/css_units.asp](https://www.w3schools.com/cssref/css_units.asp)
+
+<br />
+
+<div align="center">
+
+**Próxima página &rarr; [Position](./7-position.md)**
+
+</div>

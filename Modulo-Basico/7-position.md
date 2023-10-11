@@ -274,3 +274,11 @@ Resultado:
 ## Concluindo
 
 Conhecer bem essa propriedade é essencial para definir o posicionamento de ícones, botões, imagens, etc..., espero que pratiquem bastante! pois, muito do que vimos aqui é só uma pontinha do que podemos fazer com elas.
+
+<br />
+
+<div align="center">
+
+**Próxima página &rarr; [Z-index](./8-z-index.md)**
+
+</div>

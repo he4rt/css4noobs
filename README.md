@@ -16,7 +16,6 @@
   </a>
 </p>
 
-
 #### Switch to english: <kbd>[<img title="English" alt="English" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/us.svg" width="22">](english/README.en.md)</kbd>
 
 ## ROADMAP
@@ -35,23 +34,23 @@
 
 ### Módulo Básico
 
-1. [Seletores](/Modulo-Basico/selectors.md)
-2. [Box Model](/Modulo-Basico/box-model.md)
-3. [Box Shadow](/Modulo-Basico/box-shadow.md)
-4. [Background](/Modulo-Basico/background.md)
-5. [Border](/Modulo-Basico/border.md)
-6. [Border Radius](/Modulo-Basico/border-radius.md)
-7. [Manipulação de Texto (color, font, links, text)](/Modulo-Basico/manipulacao-texto.md)
-8. [Display](/Modulo-Basico/display.md)
-9. [Position](/Modulo-Basico/position.md)
-10. [Z-index](/Modulo-Basico/z-index.md)
-11. [Units](/Modulo-Basico/units.md)
-12. [Transition](/Modulo-Basico/transition.md)
+1. [Seletores](/Modulo-Basico/1-selectors.md)
+2. [Pseudo-classes](/Modulo-Intermediario/2-pseudo-classes.md)
+3. [Pseudo-seletores](/Modulo-Intermediario/3-pseudo-seletores.md)
+4. [Box Model](/Modulo-Basico/4-box-model.md)
+5. [Display](/Modulo-Basico/5-display.md)
+6. [Units](/Modulo-Basico/6-units.md)
+7. [Position](/Modulo-Basico/7-position.md)
+8. [Z-index](/Modulo-Basico/8-z-index.md)
+9. [Background](/Modulo-Basico/9-background.md)
+10. [Border](/Modulo-Basico/10-border.md)
+11. [Border Radius](/Modulo-Basico/11-border-radius.md)
+12. [Box Shadow](/Modulo-Basico/12-box-shadow.md)
+13. [Transition](/Modulo-Basico/13-transition.md)
+14. [Manipulação de Texto (color, font, links, text)](/Modulo-Basico/15-manipulacao-texto.md)
 
 ### Módulo Intermediário
 
-1. [Pseudo-classes](/Modulo-Intermediario/pseudo-classes.md)
-2. [Pseudo-seletores](/Modulo-Intermediario/pseudo-seletores.md)
 3. [Flexbox](/Modulo-Intermediario/flexbox.md)
 4. [CSS Grid](/Modulo-Intermediario/css-grid.md)
 5. [Variáveis CSS](/Modulo-Intermediario/variables.md)

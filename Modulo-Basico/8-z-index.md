@@ -67,4 +67,12 @@ Mas eu quero que a **Div 2** fique por cima, então eu aplico a propriedade **z-
 
 - A propriedade z-index aceita somente valores numéricos, incluindo valores negativos.
 - Só é possível aplicar o z-index caso o elemento tenha uma **position** setada (relative, absolute, fixed ou sticky).<br>
-  Por esse motivo aplicamos o z-index na div 1.
+Por esse motivo aplicamos o z-index na div 1.
+
+<br />
+
+<div align="center">
+
+**Próxima página &rarr; [Background](./9-background.md)**
+
+</div>
