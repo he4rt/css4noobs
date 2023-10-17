@@ -1,3 +1,4 @@
+
 # Box Model - O que diabos é isso?
 
 Um box model de CSS é basicamente uma caixa, um box, que está envolta de cada elemento HTML. Ela é composta por margem, bordas, padding e o conteúdo.
@@ -66,3 +67,11 @@ Se substituirmos os nomes pelos valores definidos no exemplo assim, fica:
 Largura total = 320px + 10px + 10px + 5px + 5px + 0
 
 Sendo um total de 350px.
+
+<br />
+
+<div align="center">
+
+**Próxima página &rarr; [Pseudo-seletores](./5-display.md)**
+
+</div>

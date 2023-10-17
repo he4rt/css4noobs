@@ -51,3 +51,11 @@ border-radius: 15px;
 ```
 
 <img src="../img/border-radius/border_radius_1_valor.png"><br>
+
+<br />
+
+<div align="center">
+
+**Próxima página &rarr; [Box-shadow](./12-box-shadow.md)**
+
+</div>

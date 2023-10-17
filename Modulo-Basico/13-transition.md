@@ -20,3 +20,11 @@ div:hover {
 ```
 
 * Podemos utilizar o `all` como `<elemento>` para afetar todos os elementos que estão no seletor, mas fazendo isso a transição irá ser acionada também quando a tela da aplicação for redimensionada.
+
+<br />
+
+<div align="center">
+
+**Próxima página &rarr; [Manipulação de texto](./15-manipulacao-texto.md)**
+
+</div>

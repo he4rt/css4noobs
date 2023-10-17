@@ -130,3 +130,11 @@ Observe que mesmo o segundo elemento possuindo um conteúdo menor que o primeiro
 ## Concluindo
 
 Saber bem todas essas propriedades é requisito quase obrigatório se você quiser controlar bem seus Layouts e são pré-requisitos para aprender algumas outras propriedades mais avançadas, por isso pratique todos e tenha-os em mente. Obrigado por ler até aqui e até a próxima :zap:
+
+<br />
+
+<div align="center">
+
+**Próxima página &rarr; [Unidades CSS](./6-units.md)**
+
+</div>
